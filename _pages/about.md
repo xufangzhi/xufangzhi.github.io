@@ -47,7 +47,7 @@ I am actively looking for Research Intern opportunities currently!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS  (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) \\
@@ -61,6 +61,19 @@ I am actively looking for Research Intern opportunities currently!
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) \\
+**Fangzhi Xu**, Qika Lin, Jun Liu, Lingling Zhang, Tianzhe Zhao, Qi Chai, Yudai Pan
+
+[**Code**](https://xufangzhi/MoCA/)
+
+- MoCA is a model for Textbook Question Answering
+- MoCA is a model for Textbook Question Answering
+  
+</div>
+</div>
 
 #### 🎙 Other Paper
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <br>
