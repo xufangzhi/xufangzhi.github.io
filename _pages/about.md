@@ -33,10 +33,23 @@ I am actively looking for Research Intern opportunities currently!
 
 # 📝 Publications 
 
-My full paper list is shown at [my personal homepage](https://xufangzhi.github.io).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-#### 🎙 Audio and Speech Processing
-- ``ICLR 2021`` [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) \\
+**Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
+
+[**Code**](https://xufangzhi/Logiformer/)
+  
+- Logiformer is a model for logical reasoning over text.
+
+</div>
+</div>
+
+
+#### 🎙 Other Paper
+
+- ``IEEE TKDE`` [Contrastive Graph Representations for Logical Formulas Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667296), Qika Lin, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, **Fangzhi Xu**, Hongwei Zeng
 
 # 🎖 Honors and Awards
 - *Oct.2022* &emsp; Outstanding Student in Xi’an Jiaotong University
