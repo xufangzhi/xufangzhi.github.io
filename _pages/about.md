@@ -83,7 +83,7 @@ I am actively looking for Research Intern opportunities currently!
 </div>
 </div>
 
-#### 🎙 Other Paper
+#### 🧑‍ Other Paper
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <br>
   Qika Lin, Rui Mao, Jun Liu, **Fangzhi Xu**, Erik Cambria
 - ``APWEB-WAIM 2022`` [Incorporating Prior Type Information for Few-shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_21) <span style="color:red">(Excellent Student Paper)</span> <br>
@@ -94,11 +94,14 @@ I am actively looking for Research Intern opportunities currently!
   Qika Lin, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, **Fangzhi Xu**, Hongwei Zeng
 
 # 🎖 Honors and Awards
+**Honors**
 - *Oct.2022* &emsp; Outstanding Student in Xi’an Jiaotong University
 - *Jun.2021* &emsp; Outstanding Undergraduate Graduates in Shaanxi Province
 - *Sep.2020* &emsp; **Top-10** Students of the Year (**Top Personal Award** in Xi’an Jiaotong University)
 - *Sep.2019* &emsp; Outstanding Student in Xi’an Jiaotong University
 - *Sep.2018* &emsp; Outstanding Student in Xi’an Jiaotong University
+
+**Competition Awards**
 - *Dec.2022* &emsp; ”Huawei Cup” Mathematical Contest in Modeling, **Second Prize**
 - *Mar.2022* &emsp; Asia and Pacific Mathematical Contest in Modeling (APMCM), **First Prize + Innovation Award (Top-2)**
 - *Dec.2021* &emsp; ”Huawei Cup” Mathematical Contest in Modeling, **Second Prize**
