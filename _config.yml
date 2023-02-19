@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "xufangzhi"
+title                    : "Fangzhi Xu"
 description              : ""
 repository               : "xufangzhi/xufangzhi.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/xufangzhi"
   google_plus      :
   keybase          :
   instagram        :
