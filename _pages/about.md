@@ -23,7 +23,7 @@ My research interests include (but not limited to) natural language processing, 
 
 I have published researches in some top-tier conferences and journals, such as SIGIR and TKDE. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
-I am actively looking for Research Intern opportunities currently!
+I am actively looking for Research Intern opportunities currently! Please feel free to contact me.
 
 
 # 🔥 News
@@ -49,8 +49,8 @@ I am actively looking for Research Intern opportunities currently!
 
 [**Code**](https://xufangzhi/Logiformer/)
   
-- Logiformer is a model for logical reasoning over text.
-- Logiformer is a model for logical reasoning over text.
+- Logiformer is a two-branch network for the logical reasoning task in the field of multiple-choice machine reading comprehension.
+- Up to publication, it is the state-of-the-art (SOTA) model compared with all the RoBERTa-Large based single model methods. Also, it ranks on the 9th place in the leaderboard compared with other larger models.
   
 </div>
 </div>
@@ -64,7 +64,7 @@ I am actively looking for Research Intern opportunities currently!
 [**Code**](https://xufangzhi/TaCo/)
   
 - We propose the first benchmark for generalized zero-shot logical reasoning, named ZsLR
-- A strong baseline TaCo is proposed, based on contrastive learning.  
+- A strong baseline TaCo is proposed, which is based on contrastive learning.
   
 </div>
 </div>
@@ -77,8 +77,8 @@ I am actively looking for Research Intern opportunities currently!
 
 [**Code**](https://xufangzhi/MoCA/)
 
-- MoCA is a model for Textbook Question Answering
-- MoCA is a model for Textbook Question Answering
+- MoCA focuses on the task of Textbook Question Answering, which is based on the form of multiple-choice MRC.
+- It conducts multi-stage pretraining on the text part and introduces dense layer ofs cross-guided multimodel attention for diagram part. 
   
 </div>
 </div>
