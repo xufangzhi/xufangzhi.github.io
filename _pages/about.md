@@ -121,8 +121,8 @@ I am actively looking for Research Intern opportunities currently!
 - *2018.09* &emsp; National Scholarship
 
 # 📖 Educations
-- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. 
-- *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. 
+- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
+- *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
