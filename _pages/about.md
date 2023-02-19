@@ -33,7 +33,7 @@ I am actively looking for Research Intern opportunities currently!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) \\
@@ -43,6 +43,20 @@ I am actively looking for Research Intern opportunities currently!
   
 - Logiformer is a model for logical reasoning over text.
 - Logiformer is a model for logical reasoning over text.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS  (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) \\
+**Fangzhi Xu**, Jun Liu, Qika Lin, Tianzhe Zhao, Jian Zhang, Lingling Zhang
+
+[**Code**](https://xufangzhi/TaCo/)
+  
+- We propose the first benchmark for generalized zero-shot logical reasoning, named ZsLR
+- A strong baseline TaCo is proposed, based on contrastive learning.  
   
 </div>
 </div>
