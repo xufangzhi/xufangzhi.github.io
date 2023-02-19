@@ -55,7 +55,7 @@ I am actively looking for Research Intern opportunities currently!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS (Under Review)</div><img src='images/TaCo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) \\
@@ -69,7 +69,7 @@ I am actively looking for Research Intern opportunities currently!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition (Under Review)</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition (Under Review)</div><img src='images/MoCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) \\
