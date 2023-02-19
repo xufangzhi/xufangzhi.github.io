@@ -33,7 +33,7 @@ I am actively looking for Research Intern opportunities currently!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) \\
@@ -42,7 +42,8 @@ I am actively looking for Research Intern opportunities currently!
 [**Code**](https://xufangzhi/Logiformer/)
   
 - Logiformer is a model for logical reasoning over text.
-
+- Logiformer is a model for logical reasoning over text.
+  
 </div>
 </div>
 
