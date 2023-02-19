@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fangzhi Xu"
-description              : ""
+description              : "Master Student major in Computer Science, Xi'an Jiaotong University"
 repository               : "xufangzhi/xufangzhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "xufangzhi"
   avatar           : "images/profile.jpg"
   bio              : "Xi'an Jiaotong University"
-  location         : "Shanghai, China"
+  location         : "Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?hl=zh-CN&user=q6PBllIAAAAJ"
