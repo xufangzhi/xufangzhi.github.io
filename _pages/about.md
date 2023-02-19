@@ -48,21 +48,23 @@ I am actively looking for Research Intern opportunities currently!
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2022.09* National Scholarship. 
-- *2022.09* Huawei Scholarship. 
-- *2022.04* ACM SIGIR Student Travel Grant
-- *2021.09* Freshman First Prize Scholarship
-- *2020.09* Chinese Modern Scientists Scholarship (Only for Top-10 Student)
-- *2019.09* National Scholarship
-- *2018.09* National Scholarship
+
+# 🎖 Scholarships
+- *2022.09* &emsp; National Scholarship. 
+- *2022.09* &emsp; Huawei Scholarship. 
+- *2022.04* &emsp; ACM SIGIR Student Travel Grant
+- *2021.09* &emsp; Freshman First Prize Scholarship
+- *2020.09* &emsp; Chinese Modern Scientists Scholarship (Only for Top-10 Student)
+- *2019.09* &emsp; National Scholarship
+- *2018.09* &emsp; National Scholarship
 
 # 📖 Educations
-- *2021.09 - 2022.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. 
+- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. 
 - *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2023.05 - 2023.10*, Still Searching!
