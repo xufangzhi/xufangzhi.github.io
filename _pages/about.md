@@ -48,8 +48,13 @@ I am actively looking for Research Intern opportunities currently!
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09* National Scholarship. 
+- *2022.09* Huawei Scholarship. 
+- *2022.04* ACM SIGIR Student Travel Grant
+- *2021.09* Freshman First Prize Scholarship
+- *2020.09* Chinese Modern Scientists Scholarship (Only for Top-10 Student)
+- *2019.09* National Scholarship
+- *2018.09* National Scholarship
 
 # 📖 Educations
 - *2021.09 - 2022.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. 
