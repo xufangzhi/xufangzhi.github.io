@@ -18,5 +18,8 @@ main:
   - title: "Scholarships"
     url: "/#-scholarships"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+    
   - title: "Internships"
     url: "/#-internships"
