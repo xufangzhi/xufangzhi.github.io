@@ -95,7 +95,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
   Siyu Yao, Tianzhe Zhao, **Fangzhi Xu**, Jun Liu
 - ``SIGIR 2022`` [Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
   Qika Lin, Jun Liu, **Fangzhi Xu**, Yudai Pan, Yifan Zhu, Lingling Zhang and Tianzhe Zhao
-- <span class="badge">SIGIR 2022</span> [Contrastive Graph Representations for Logical Formulas Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667296) <span style="color:red">[CCF-A]</span> <br>
+- ``IEEE TKDE`` [Contrastive Graph Representations for Logical Formulas Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667296) <span style="color:red">[CCF-A]</span> <br>
   Qika Lin, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, **Fangzhi Xu**, Hongwei Zeng
 
 # 🎖 Honors and Awards
