@@ -39,6 +39,11 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2022.05.10*: &nbsp;🎉🎉 I am invited as a reviewer for TNNLS !
 - *2022.04.01*: &nbsp;🎉🎉 Two papers are accepted by SIGIR 2022 !
 
+# 📖 Educations
+- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
+- *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
@@ -86,7 +91,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 #### 🧑‍ Other Paper
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <span style="color:red">[SCI-Q1]</span> <br>
   Qika Lin, Rui Mao, Jun Liu, **Fangzhi Xu**, Erik Cambria
-- ``APWEB-WAIM 2022`` [Incorporating Prior Type Information for Few-shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_21) <span style="color:red">(Excellent Student Paper)</span> <span style="color:red">[CCF-C]</span> <br>
+- ``APWEB-WAIM 2022`` [Incorporating Prior Type Information for Few-shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_21) <span style="color:red">[CCF-C] (Excellent Student Paper)</span> <br>
   Siyu Yao, Tianzhe Zhao, **Fangzhi Xu**, Jun Liu
 - ``SIGIR 2022`` [Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
   Qika Lin, Jun Liu, **Fangzhi Xu**, Yudai Pan, Yifan Zhu, Lingling Zhang and Tianzhe Zhao
@@ -119,10 +124,6 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2020.09* &emsp; Chinese Modern Scientists Scholarship (Only for Top-10 Student)
 - *2019.09* &emsp; National Scholarship
 - *2018.09* &emsp; National Scholarship
-
-# 📖 Educations
-- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
-- *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
