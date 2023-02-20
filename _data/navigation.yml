@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "News"
     url: "/#-news"
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Scholarships"
     url: "/#-scholarships"
-    
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
