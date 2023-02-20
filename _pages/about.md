@@ -117,8 +117,8 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 
 # 🎖 Scholarships
-- *2022.09* &emsp; National Scholarship. 
-- *2022.09* &emsp; Huawei Scholarship. 
+- *2022.09* &emsp; National Scholarship
+- *2022.09* &emsp; Huawei Scholarship
 - *2022.04* &emsp; ACM SIGIR Student Travel Grant
 - *2021.09* &emsp; Freshman First Prize Scholarship
 - *2020.09* &emsp; Chinese Modern Scientists Scholarship (Only for Top-10 Student)
