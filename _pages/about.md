@@ -129,5 +129,9 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 💬 Academic Services
+- Program Committee Member: SIGIR 2023
+- Reviewer: IEEE TNNLS
+
 # 💻 Internships
 - *2023.05 - 2023.10*, Still Searching!
