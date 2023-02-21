@@ -82,8 +82,8 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 [**Code**](https://xufangzhi/MoCA/)
 
-- MoCA focuses on the task of Textbook Question Answering, which is based on the form of multiple-choice MRC.
-- It conducts multi-stage pretraining on the text part and introduces dense layer ofs cross-guided multimodel attention for diagram part. 
+- MoCA focuses on the task of Textbook Question Answering, which is a multimodal task with abundant diagrams and large context.
+- It conducts multi-stage pretraining on the text part and introduces dense layers of cross-guided multimodel attention for the diagram part. 
   
 </div>
 </div>
