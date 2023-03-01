@@ -21,7 +21,7 @@ I am Fangzhi Xu (徐方植), a second-year master student in Xi'an Jiaotong Univ
 
 My research interests include (but not limited to) natural language processing, question answering and logical reasoning.
 
-I have published researches in some top-tier conferences and journals, such as SIGIR and TKDE. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
+I have published researches in some top-tier conferences and journals, such as SIGIR and IEEE TKDE. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
 I am actively looking for Research Intern opportunities currently! Please feel free to contact me.
 
