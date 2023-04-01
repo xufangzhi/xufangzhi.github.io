@@ -21,12 +21,13 @@ I am Fangzhi Xu (徐方植), a second-year master student in Xi'an Jiaotong Univ
 
 My research interests include (but not limited to) natural language processing, question answering and logical reasoning.
 
-I have published researches in some top-tier conferences and journals, such as SIGIR and IEEE TKDE. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
+I have published researches in some top-tier conferences and journals, such as SIGIR, IEEE TKDE and Pattern Recognition. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
 I am actively looking for Research Intern opportunities currently! Please feel free to contact me.
 
 
 # 🔥 News
+- *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
 - *2023.01.31*: &nbsp;🎉🎉 One paper is submitted to SIGIR 2023 !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
 - *2023.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
@@ -74,7 +75,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition (Under Review)</div><img src='images/MoCA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/MoCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) <span style="color:red">[CCF-B]</span> \\
