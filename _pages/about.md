@@ -28,7 +28,6 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 # 🔥 News
 - *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
-- *2023.01.31*: &nbsp;🎉🎉 One paper is submitted to SIGIR 2023 !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
 - *2023.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
 - *2022.11.05*: &nbsp;🎉🎉 One paper is submitted to IEEE TNNLS !
