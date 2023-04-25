@@ -27,6 +27,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 
 # 🔥 News
+- *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
 - *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
 - *2023.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
@@ -37,7 +38,6 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2022.07.13*: &nbsp;🎉🎉 I make an oral presentation in SIGIR conference !
 - *2022.06.07*: &nbsp;🎉🎉 One paper is accepted by APWeb 2022 !
 - *2022.05.10*: &nbsp;🎉🎉 I am invited as a reviewer for TNNLS !
-- *2022.04.01*: &nbsp;🎉🎉 Two papers are accepted by SIGIR 2022 !
 
 # 📖 Educations
 - *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
@@ -130,7 +130,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: SIGIR 2023
+- Program Committee Member: SIGIR 2023, SIGIR-AP 2023
 - Reviewer: IEEE TNNLS
 
 # 💻 Internships
