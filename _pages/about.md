@@ -27,6 +27,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 
 # 🔥 News
+- *2023.04.25*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
 - *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
 - *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
@@ -89,6 +90,8 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 </div>
 
 #### 🧑‍ Other Paper
+- ``ACL 2023`` [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
+  Qika Lin, Jun Liu, Rui Mao, **Fangzhi Xu** and Erik Cambria
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <span style="color:red">[SCI-Q1]</span> <br>
   Qika Lin, Rui Mao, Jun Liu, **Fangzhi Xu**, Erik Cambria
 - ``APWEB-WAIM 2022`` [Incorporating Prior Type Information for Few-shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_21) <span style="color:red">[CCF-C] (Excellent Student Paper)</span> <br>
