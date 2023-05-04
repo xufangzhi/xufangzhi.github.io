@@ -27,7 +27,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 
 # 🔥 News
-- *2023.04.25*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
+- *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
 - *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
 - *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
