@@ -47,14 +47,18 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/Evaluate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Evaluate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
-**Fangzhi Xu**, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
+**Fangzhi Xu\* **, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 [**Code**]([https://github.com/xufangzhi/])
 
+- To explore real logical reasoning capability of LLMs, this paper provides a systematic, comprehensive and fine-level evaluation from deductive, inductive and abductive
+views. The in-depth evaluation and analysis fill the blanks and are expected to provoke new thoughts of LLMs.
+
+- To provide fair evaluations with neutral content and decouple logical reasoning from text understanding, this paper proposes a new dataset named NeuLR. It contains 3K content-neutral samples and covers deductive, inductive and abductive reasoning manners.
   
 </div>
 </div>
