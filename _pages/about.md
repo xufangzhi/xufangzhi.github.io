@@ -47,13 +47,13 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/Evaluate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
 **Fangzhi Xu**, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
-[**Code**]([https://xufangzhi/Logiformer/](https://github.com/xufangzhi/))
+[**Code**]([https://github.com/xufangzhi/])
 
   
 </div>
