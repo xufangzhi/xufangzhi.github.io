@@ -51,7 +51,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 <div class='paper-box-text' markdown="1">
 
 [Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
-**Fangzhi Xu\* **, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
+**Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 [**Code**]([https://github.com/xufangzhi/])
 
