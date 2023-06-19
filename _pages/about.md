@@ -53,7 +53,7 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 [Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
-[**Code**]([https://github.com/xufangzhi/])
+[**Code**](https://github.com/xufangzhi/)
 
 - To explore real logical reasoning capability of LLMs, this paper provides a systematic, comprehensive and fine-level evaluation from deductive, inductive and abductive
 views. The in-depth evaluation and analysis fill the blanks and are expected to provoke new thoughts of LLMs.
@@ -69,7 +69,7 @@ views. The in-depth evaluation and analysis fill the blanks and are expected to 
 [Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
 
-[**Code**](https://xufangzhi/Logiformer/)
+[**Code**](https://github.com/xufangzhi/Logiformer/)
   
 - Logiformer is a two-branch network for the logical reasoning task in the field of multiple-choice machine reading comprehension.
 - Up to publication, it is the state-of-the-art (SOTA) model compared with all the RoBERTa-Large based single model methods. Also, it ranks on the 9th place in the leaderboard compared with other larger models.
@@ -83,7 +83,7 @@ views. The in-depth evaluation and analysis fill the blanks and are expected to 
 [Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) <span style="color:red">[CCF-B]</span> \\
 **Fangzhi Xu**, Jun Liu, Qika Lin, Tianzhe Zhao, Jian Zhang, Lingling Zhang
 
-[**Code**](https://xufangzhi/TaCo/)
+[**Code**](https://github.com/xufangzhi/TaCo/)
   
 - We propose the first benchmark for generalized zero-shot logical reasoning, named ZsLR
 - A strong baseline TaCo is proposed, which is based on contrastive learning.
@@ -97,7 +97,7 @@ views. The in-depth evaluation and analysis fill the blanks and are expected to 
 [MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) <span style="color:red">[CCF-B]</span> \\
 **Fangzhi Xu**, Qika Lin, Jun Liu, Lingling Zhang, Tianzhe Zhao, Qi Chai, Yudai Pan
 
-[**Code**](https://xufangzhi/MoCA/)
+[**Code**](https://github.com/xufangzhi/MoCA/)
 
 - MoCA focuses on the task of Textbook Question Answering, which is a multimodal task with abundant diagrams and large context.
 - It conducts multi-stage pretraining on the text part and introduces dense layers of cross-guided multimodel attention for the diagram part. 
