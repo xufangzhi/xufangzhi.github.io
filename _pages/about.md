@@ -53,12 +53,14 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 [Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
+(\* means equal contributions)
+
 [**Code**](https://github.com/xufangzhi/)
 
-- To explore real logical reasoning capability of LLMs, this paper provides a systematic, comprehensive and fine-level evaluation from deductive, inductive and abductive
-views. The in-depth evaluation and analysis fill the blanks and are expected to provoke new thoughts of LLMs.
+- This paper provides a systematic, comprehensive and fine-level evaluation of logical reasoning capability from deductive, inductive and abductive
+views.
 
-- To provide fair evaluations with neutral content and decouple logical reasoning from text understanding, this paper proposes a new dataset named NeuLR. It contains 3K content-neutral samples and covers deductive, inductive and abductive reasoning manners.
+- We propose a new dataset named NeuLR. It contains 3K samples with neutral content, covering deductive, inductive and abductive reasoning manners.
   
 </div>
 </div>
