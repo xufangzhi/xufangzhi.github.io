@@ -66,10 +66,10 @@ views.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Ready for Submission)</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[Arxiv]</span> \\
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[AAAI 2024 (Ready for Submission)]</span> \\
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
