@@ -66,7 +66,7 @@ views.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[Arxiv]</span> \\
@@ -74,10 +74,9 @@ views.
 
 [**Code**](https://github.com/xufangzhi/)
 
-- This paper provides a systematic, comprehensive and fine-level evaluation of logical reasoning capability from deductive, inductive and abductive
-views.
+- We are the first to rethink the logical reasoning task by unifying the inputs into atoms and reasoning paths.
 
-- We propose a new dataset named NeuLR. It contains 3K samples with neutral content, covering deductive, inductive and abductive reasoning manners.
+- We propose an atom extension strategy with equivalent logical formulas to generate diverse new samples. Also, we introduce a stack of transformer-style blocks. Specifically, a path-attention module with high-order relation modeling is proposed to joint update information within and across atoms.
   
 </div>
 </div>
