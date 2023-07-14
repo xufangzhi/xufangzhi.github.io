@@ -45,6 +45,9 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
 
+# 💻 Internships
+- *2023.07 - Present*, Research Internship, Shanghai AILAB, Shanghai. Focus on Large Language Models and Logical Reasoning.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
@@ -170,6 +173,3 @@ views.
 # 💬 Academic Services
 - Program Committee Member: SIGIR 2023, SIGIR-AP 2023
 - Reviewer: IEEE TNNLS
-
-# 💻 Internships
-- *2023.05 - 2023.10*, Still Searching!
