@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Fangzhi Xu (徐方植), a second-year master student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
+I am Fangzhi Xu (徐方植), an incoming PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
-My research interests include (but not limited to) natural language processing, question answering and logical reasoning.
+My research interests include (but not limited to) natural language processing, large  and logical reasoning.
 
 I have published researches in some top-tier conferences and journals, such as SIGIR, IEEE TKDE and Pattern Recognition. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
-
-I am actively looking for Research Intern opportunities currently! Please feel free to contact me.
 
 
 # 🔥 News
@@ -41,7 +39,8 @@ I am actively looking for Research Intern opportunities currently! Please feel f
 - *2022.05.10*: &nbsp;🎉🎉 I am invited as a reviewer for TNNLS !
 
 # 📖 Educations
-- *2021.09 - 2023.06 (expected)*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
+- *2023.09 - 2026.06 (expected)*, PhD student in Computer Science, Xi'an Jiaotong University.
+- *2021.09 - 2023.06*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
 - *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
 
