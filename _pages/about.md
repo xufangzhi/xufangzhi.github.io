@@ -19,7 +19,7 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), an incoming PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
-My research interests include (but not limited to) natural language processing, large  and logical reasoning.
+My research interests include (but not limited to) natural language processing, large language models and logical reasoning.
 
 I have published researches in some top-tier conferences and journals, such as SIGIR, IEEE TKDE and Pattern Recognition. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
