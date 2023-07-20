@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Fangzhi Xu (徐方植), an incoming PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
+I am Fangzhi Xu (徐方植), an incoming PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). Also, I am currently a research intern at Shanghai AILAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
 My research interests include (but not limited to) natural language processing, large language models and logical reasoning.
 
@@ -45,7 +45,7 @@ I have published researches in some top-tier conferences and journals, such as S
 
 
 # 💻 Internships
-- *2023.07 - Present*, Research Internship, Shanghai AILAB, Shanghai. Focus on Large Language Models and Logical Reasoning.
+- *2023.07 - Present*, Research Intern, Shanghai AILAB. Focus on Large Language Models and Logical Reasoning.
 
 # 📝 Publications 
 
