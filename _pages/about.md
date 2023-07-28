@@ -25,18 +25,12 @@ I have published researches in some top-tier conferences and journals, such as S
 
 
 # 🔥 News
+- *2023.07.18*: &nbsp;🎉🎉 I join in Shanghai AILAB as a NLP research intern !
 - *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
 - *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
 - *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
 - *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
-- *2023.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
-- *2022.11.05*: &nbsp;🎉🎉 One paper is submitted to IEEE TNNLS !
-- *2022.10.24*: &nbsp;🎉🎉 I am awarded National Scholarship for the THIRD times !
-- *2022.10.10*: &nbsp;🎉🎉 I am awarded Huawei Scholarship !
-- *2022.10.10*: &nbsp;🎉🎉 One paper is accepted by Information Fusion !
-- *2022.07.13*: &nbsp;🎉🎉 I make an oral presentation in SIGIR conference !
-- *2022.06.07*: &nbsp;🎉🎉 One paper is accepted by APWeb 2022 !
-- *2022.05.10*: &nbsp;🎉🎉 I am invited as a reviewer for TNNLS !
+- *2022.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
 
 # 📖 Educations
 - *2023.09 - 2026.06 (expected)*, PhD student in Computer Science, Xi'an Jiaotong University.
@@ -45,7 +39,7 @@ I have published researches in some top-tier conferences and journals, such as S
 
 
 # 💻 Internships
-- *2023.07 - Present*, Research Intern, Shanghai AILAB. Focus on Large Language Models and Logical Reasoning.
+- *2023.07 - Present*, Research Intern @ Shanghai AILAB. Focus on Large Language Models and Logical Reasoning.
 
 # 📝 Publications 
 
