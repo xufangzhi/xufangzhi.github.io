@@ -164,5 +164,5 @@ views.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: SIGIR 2023, SIGIR-AP 2023
+- Program Committee Member: SIGIR 2023, SIGIR-AP 2023, AACL 2023
 - Reviewer: IEEE TNNLS
