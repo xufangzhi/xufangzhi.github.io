@@ -21,10 +21,11 @@ I am Fangzhi Xu (徐方植), an incoming PhD student in Xi'an Jiaotong Universit
 
 My research interests include (but not limited to) natural language processing, large language models and logical reasoning.
 
-I have published researches in some top-tier conferences and journals, such as SIGIR, IEEE TKDE and Pattern Recognition. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
+I have published researches in some top-tier conferences and journals, such as SIGIR, ACL, IEEE TKDE, and IEEE TNNLS. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
 
 # 🔥 News
+- *2023.09.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS !
 - *2023.07.18*: &nbsp;🎉🎉 I join in Shanghai AILAB as a NLP research intern !
 - *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
 - *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
@@ -92,7 +93,7 @@ views.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS (Under Review)</div><img src='images/TaCo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/TaCo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) <span style="color:red">[CCF-B]</span> \\
