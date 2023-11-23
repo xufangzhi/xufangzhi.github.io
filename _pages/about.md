@@ -19,12 +19,13 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), a first-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). Also, I am currently a research intern at Shanghai AILAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
-My research interests include (but not limited to) natural language processing, large language models and logical reasoning.
+My research interests include (but not limited to) natural language processing, large language models and neuro-symbolic reasoning.
 
 I have published researches in some top-tier conferences and journals, such as SIGIR, ACL, IEEE TKDE, and IEEE TNNLS. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
 
 
 # 🔥 News
+- *2023.11.15*: &nbsp;🎉🎉 We make the recent work Symbol-LLM public !
 - *2023.09.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS !
 - *2023.07.18*: &nbsp;🎉🎉 I join in Shanghai AILAB as a NLP research intern !
 - *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
@@ -40,14 +41,31 @@ I have published researches in some top-tier conferences and journals, such as S
 
 
 # 💻 Internships
-- *2023.07 - Present*, Research Intern @ Shanghai AILAB. Focus on Large Language Models and Logical Reasoning.
+- *2023.07 - Present*, Research Intern @ Shanghai AILAB. Focus on Large Language Models and Neuro-Symbolic.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Arxiv]</span> \\
+[Symbol-LLM: Towards Foundational Symbol-centric Interface
+For Large Language Models](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[Preprint]</span> \\
+**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
+
+[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/)
+
+
+
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 (\* means equal contributions)
@@ -63,10 +81,10 @@ views.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Ready for Submission)</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Under Review)</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[AAAI 2024 (Ready for Submission)]</span> \\
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[AAAI 2024 (Under Review)]</span> \\
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
