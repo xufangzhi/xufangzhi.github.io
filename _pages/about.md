@@ -29,9 +29,7 @@ I have published researches in some top-tier conferences and journals, such as S
 - *2023.09.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS !
 - *2023.07.18*: &nbsp;🎉🎉 I join in Shanghai AILAB as a NLP research intern !
 - *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
-- *2023.04.25*: &nbsp;🎉🎉 I am invited as a PC member at SIGIR-AP 2023 !
-- *2023.04.01*: &nbsp;🎉🎉 One paper is accepted to Pattern Recognition !
-- *2023.01.16*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023 !
+- *2023.04.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition !
 - *2022.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
 
 # 📖 Educations
@@ -65,7 +63,7 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 (\* means equal contributions)
@@ -183,5 +181,5 @@ views.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: SIGIR 2023, SIGIR-AP 2023, AACL 2023
+- Program Committee Member: SIGIR 2023, SIGIR-AP 2023, AACL 2023, SIGIR 2024
 - Reviewer: IEEE TNNLS
