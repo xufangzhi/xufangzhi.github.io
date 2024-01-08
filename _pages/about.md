@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Fangzhi Xu (徐方植), a first-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). Also, I am currently a research intern at Shanghai AILAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
+I am Fangzhi Xu (徐方植), a first-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). Also, I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
 My research interests include (but not limited to) natural language processing, large language models and neuro-symbolic reasoning.
 
-I have published researches in some top-tier conferences and journals, such as SIGIR, ACL, IEEE TKDE, and IEEE TNNLS. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for SIGIR 2023 and IEEE TNNLS.
+I have published researches in some top-tier conferences and journals, such as SIGIR, ACL, IEEE TKDE, and IEEE TNNLS. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for IJCAI, SIGIR and IEEE TNNLS.
 
 
 # 🔥 News
@@ -39,7 +39,7 @@ I have published researches in some top-tier conferences and journals, such as S
 
 
 # 💻 Internships
-- *2023.07 - Present*, Research Intern @ Shanghai AILAB. Focus on Large Language Models and Neuro-Symbolic.
+- *2023.07 - Present*, Research Intern @ Shanghai AI LAB. Focus on Large Language Models and Neuro-Symbolic.
 
 # 📝 Publications 
 
@@ -51,7 +51,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="
 **Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
-[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/)
+[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+
 
 
 
@@ -79,10 +80,10 @@ views.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Under Review)</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[AAAI 2024 (Under Review)]</span> \\
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[Under Review]</span> \\
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
@@ -168,10 +169,11 @@ views.
 
 
 # 🎖 Scholarships
+- *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
 - *2022.09* &emsp; National Scholarship
 - *2022.09* &emsp; Huawei Scholarship
 - *2022.04* &emsp; ACM SIGIR Student Travel Grant
-- *2021.09* &emsp; Freshman First Prize Scholarship
+- *2021.09* &emsp; Freshman First Prize Scholarship (Master)
 - *2020.09* &emsp; Chinese Modern Scientists Scholarship (Only for Top-10 Student)
 - *2019.09* &emsp; National Scholarship
 - *2018.09* &emsp; National Scholarship
@@ -181,5 +183,5 @@ views.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: SIGIR 2023, SIGIR-AP 2023, AACL 2023, SIGIR 2024
+- Program Committee Member: IJCAI 2024, SIGIR 2024, AACL 2023, SIGIR 2023, SIGIR-AP 2023
 - Reviewer: IEEE TNNLS
