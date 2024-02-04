@@ -19,18 +19,21 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), a first-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). Also, I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). In 2021, I received the B.S. degree in Electrical Engineering from Xi’an Jiaotong University.
 
-My research interests include (but not limited to) natural language processing, large language models and neuro-symbolic reasoning.
+I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, IEEE TKDE, and IEEE TNNLS. Also, I serve as a PC member (or reviewer) for IJCAI, SIGIR and IEEE TNNLS.
 
-I have published researches in some top-tier conferences and journals, such as SIGIR, ACL, IEEE TKDE, and IEEE TNNLS. Also, I was awarded National Scholarship (3 times) and won a lot of international competition prizes. Also, I serve as a PC member (or reviewer) for IJCAI, SIGIR and IEEE TNNLS.
+My research interests include (but not limited to) natural language processing, large language models and neuro-symbolic reasoning. 
+
+
 
 
 # 🔥 News
-- *2023.11.15*: &nbsp;🎉🎉 We make the recent work Symbol-LLM public !
+- *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
+- *2024.02.03*: &nbsp; One paper is submitted to ICLR 2024 Workshop on AI Agent !
+- *2023.12.15*: &nbsp; Two papers [Symbol-LLM, PathReasoner] are submitted to ACL-ARR (Dec. 2023) !
+- *2023.11.15*: &nbsp;🚀 We make the recent work Symbol-LLM public !
 - *2023.09.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS !
-- *2023.07.18*: &nbsp;🎉🎉 I join in Shanghai AILAB as a NLP research intern !
 - *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
-- *2023.04.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition !
-- *2022.11.21*: &nbsp;🎉🎉 Our paper is awarded Excellent Student Paper Award in APWeb-WAIM 2022 ! !
+  
 
 # 📖 Educations
 - *2023.09 - 2026.06 (expected)*, PhD student in Computer Science, Xi'an Jiaotong University.
@@ -139,6 +142,8 @@ views.
 </div>
 
 #### 🧑‍ Other Paper
+- ``Preprint`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[Arxiv]</span><br>
+  Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
 - ``ACL 2023`` [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
   Qika Lin, Jun Liu, Rui Mao, **Fangzhi Xu** and Erik Cambria
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <span style="color:red">[SCI-Q1]</span> <br>
