@@ -28,11 +28,12 @@ My research interests include (but not limited to) natural language processing, 
 
 # 🔥 News
 - *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
+- *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
 - *2024.02.03*: &nbsp; One paper is submitted to ICLR 2024 Workshop on AI Agent !
 - *2023.12.15*: &nbsp; Two papers [Symbol-LLM, PathReasoner] are submitted to ACL-ARR (Dec. 2023) !
-- *2023.11.15*: &nbsp;🚀 We make the recent work Symbol-LLM public !
-- *2023.09.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS !
-- *2023.05.02*: &nbsp;🎉🎉 One paper is accepted by ACL 2023 !
+- *2023.11.15*: &nbsp; We make the recent work Symbol-LLM public 🚀!
+- *2023.09.12*: &nbsp; One paper is accepted by IEEE TNNLS 🎉🎉!
+- *2023.05.02*: &nbsp; One paper is accepted by ACL 2023 🎉🎉!
   
 
 # 📖 Educations
@@ -144,6 +145,8 @@ views.
 #### 🧑‍ Other Paper
 - ``Preprint`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[Arxiv]</span><br>
   Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
+- ``ICDE 2024 (TKDE Poster Track)`` [Contrastive Graph Representations for Logical Formulas Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667296) <span style="color:red">[CCF-A]</span> <br>
+  Qika Lin, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, **Fangzhi Xu**, Hongwei Zeng
 - ``ACL 2023`` [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
   Qika Lin, Jun Liu, Rui Mao, **Fangzhi Xu** and Erik Cambria
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <span style="color:red">[SCI-Q1]</span> <br>
