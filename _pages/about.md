@@ -28,7 +28,6 @@ My research interests include (but not limited to) natural language processing, 
 
 # 🔥 News
 - *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
-- *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
 - *2024.02.03*: &nbsp; One paper is submitted to ICLR 2024 Workshop on AI Agent !
 - *2023.12.15*: &nbsp; Two papers [Symbol-LLM, PathReasoner] are submitted to ACL-ARR (Dec. 2023) !
 - *2023.11.15*: &nbsp; We make the recent work Symbol-LLM public 🚀!
