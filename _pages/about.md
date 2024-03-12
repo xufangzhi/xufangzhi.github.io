@@ -26,7 +26,7 @@ My research interests include (but not limited to) natural language processing, 
 
 
 # 🔥 News
-- *2024.02.03*: &nbsp; One paper is accepted by LLMAgent@ICLR 2024 Workshop !
+- *2024.03.11*: &nbsp; One paper is accepted by LLMAgent Workshop @ICLR 2024 🎉🎉!
 - *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
 - *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
 - *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
