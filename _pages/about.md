@@ -26,10 +26,10 @@ My research interests include (but not limited to) natural language processing, 
 
 
 # 🔥 News
+- *2024.02.03*: &nbsp; One paper is accepted by LLMAgent@ICLR 2024 Workshop !
 - *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
 - *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
 - *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
-- *2024.02.03*: &nbsp; One paper is submitted to ICLR 2024 Workshop on AI Agent !
 - *2023.12.15*: &nbsp; Two papers [Symbol-LLM, PathReasoner] are submitted to ACL-ARR (Dec. 2023) !
 - *2023.11.15*: &nbsp; We make the recent work Symbol-LLM public 🚀!
 - *2023.09.12*: &nbsp; One paper is accepted by IEEE TNNLS 🎉🎉!
@@ -143,7 +143,7 @@ views.
 </div>
 
 #### 🧑‍ Other Paper
-- ``Preprint`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[Arxiv]</span><br>
+- ``ICLR 2024 Workshop`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[Arxiv]</span><br>
   Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
 - ``COLING 2024`` [A Semantic Mention Graph Augmented Model for Document-Level Event Argument Extraction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-B]</span><br>
   Jian Zhang, Changlin Yang, Haiping Zhu, Qika Lin, **Fangzhi Xu** and Jun Liu
