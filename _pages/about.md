@@ -26,6 +26,7 @@ My research interests include (but not limited to) natural language processing, 
 
 
 # 🔥 News
+- *2024.03.24*: &nbsp; Our recent survey on neural code intelligence is made public 🎉🎉!
 - *2024.03.11*: &nbsp; One paper is accepted by LLMAgent Workshop @ICLR 2024 🎉🎉!
 - *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
 - *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
@@ -47,6 +48,24 @@ My research interests include (but not limited to) natural language processing, 
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
+Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/xufangzhi/)
+
+- A survey on neural code intelligence. We make a thorough conclusion of the paradigm shifts and provide extensive insights on the future directions. Check it out!
+  
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/symbol-llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,10 +76,6 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
 
-
-
-
-  
 </div>
 </div>
 
