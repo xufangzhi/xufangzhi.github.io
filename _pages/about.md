@@ -49,7 +49,7 @@ My research interests include (but not limited to) natural language processing, 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ncisurvey.png' alt="sym" width="99%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/codesurvey.png' alt="sym" width="99%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://github.com/QiushiSun/NCISurvey) <span style="color:red">[Preprint]</span> \\
