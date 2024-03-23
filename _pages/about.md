@@ -68,7 +68,7 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface
-For Large Language Models](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[Preprint]</span> \\
+For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[Preprint]</span> \\
 **Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
