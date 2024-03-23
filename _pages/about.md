@@ -49,15 +49,15 @@ My research interests include (but not limited to) natural language processing, 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ncisurvey.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
+[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://github.com/QiushiSun/NCISurvey) <span style="color:red">[Preprint]</span> \\
 Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
 (\* means equal contributions)
 
-[**Code**](https://github.com/xufangzhi/)
+[**Code**](https://github.com/QiushiSun/NCISurvey)
 
 - A survey on neural code intelligence. We make a thorough conclusion of the paradigm shifts and provide extensive insights on the future directions. Check it out!
   
