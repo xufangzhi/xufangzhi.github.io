@@ -52,7 +52,7 @@ My research interests include (but not limited to) natural language processing, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/codesurvey.png' alt="sym" width="99%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://github.com/QiushiSun/NCISurvey) <span style="color:red">[Preprint]</span> \\
+[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://arxiv.org/abs/2403.14734) <span style="color:red">[Preprint]</span> \\
 Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
 [**Code**](https://github.com/QiushiSun/NCISurvey)
