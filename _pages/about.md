@@ -156,7 +156,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <spa
 </div>
 
 #### 🧑‍ Other Paper
-- ``ICLR 2024 Workshop`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[Arxiv]</span><br>
+- ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[CCF-A]</span><br>
   Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
 - ``COLING 2024`` [A Semantic Mention Graph Augmented Model for Document-Level Event Argument Extraction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-B]</span><br>
   Jian Zhang, Changlin Yang, Haiping Zhu, Qika Lin, **Fangzhi Xu** and Jun Liu
