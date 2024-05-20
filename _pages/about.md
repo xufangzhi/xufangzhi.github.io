@@ -28,14 +28,9 @@ My research interests include (but not limited to) natural language processing, 
 # 🔥 News
 - *2024.05.16*: &nbsp; Three papers are accepted by ACL 2024 (main conference) 🎉🎉!
 - *2024.03.24*: &nbsp; Our recent survey on neural code intelligence is made public 🎉🎉!
-- *2024.03.11*: &nbsp; One paper is accepted by LLMAgent Workshop @ICLR 2024 🎉🎉!
 - *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
-- *2024.02.15*: &nbsp; One paper [SeeClick] is submitted to ACL-ARR (Feb. 2024) !
 - *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
-- *2023.12.15*: &nbsp; Two papers [Symbol-LLM, PathReasoner] are submitted to ACL-ARR (Dec. 2023) !
 - *2023.11.15*: &nbsp; We make the recent work Symbol-LLM public 🚀!
-- *2023.09.12*: &nbsp; One paper is accepted by IEEE TNNLS 🎉🎉!
-- *2023.05.02*: &nbsp; One paper is accepted by ACL 2023 🎉🎉!
   
 
 # 📖 Educations
