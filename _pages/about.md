@@ -62,7 +62,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <spa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering 🔥🔥](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
@@ -92,7 +92,7 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond 🔥🔥](https://arxiv.org/abs/2306.09841) <span style="color:red">[Preprint]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 (\* means equal contributions)
