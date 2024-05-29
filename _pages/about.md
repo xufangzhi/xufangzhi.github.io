@@ -45,6 +45,36 @@ My research interests include (but not limited to) natural language processing, 
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Symbol-LLM: Towards Foundational Symbol-centric Interface
+For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
+
+[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
+
+[**Code**](https://github.com/xufangzhi/)
+
+- We are the first to rethink the logical reasoning task by unifying the inputs into atoms and reasoning paths.
+
+- We propose an atom extension strategy with equivalent logical formulas to generate diverse new samples. Also, we introduce a stack of transformer-style blocks. Specifically, a path-attention module with high-order relation modeling is proposed to joint update information within and across atoms.
+  
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/codesurvey.png' alt="sym" width="99%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,35 +107,6 @@ views.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Symbol-LLM: Towards Foundational Symbol-centric Interface
-For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[CCF-A]</span> \\
-**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
-
-[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
-[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
-**Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
-
-[**Code**](https://github.com/xufangzhi/)
-
-- We are the first to rethink the logical reasoning task by unifying the inputs into atoms and reasoning paths.
-
-- We propose an atom extension strategy with equivalent logical formulas to generate diverse new samples. Also, we introduce a stack of transformer-style blocks. Specifically, a path-attention module with high-order relation modeling is proposed to joint update information within and across atoms.
-  
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
