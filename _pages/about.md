@@ -44,19 +44,6 @@ My research interests include (but not limited to) natural language processing, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Symbol-LLM: Towards Foundational Symbol-centric Interface
-For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span style="color:red">[CCF-A]</span> \\
-**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
-
-[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
-[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +52,20 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 **Fangzhi Xu**, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Symbol-LLM: Towards Foundational Symbol-centric Interface
+For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
+
+[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
 
 </div>
