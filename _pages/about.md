@@ -49,7 +49,7 @@ My research interests include (but not limited to) natural language processing, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278v1.pdf) <span style="color:red">[Preprint]</span> \\
+[Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models 🔥🔥](http://arxiv.org/abs/2406.11736) <span style="color:red">[Preprint]</span> \\
 **Fangzhi Xu**, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
