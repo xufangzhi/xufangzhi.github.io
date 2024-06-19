@@ -43,7 +43,7 @@ My research interests include (but not limited to) natural language processing, 
 # 💻 Internships
 - *2023.07 - Present*, Research Intern @ Shanghai AI LAB. Focus on Large Language Models and Neuro-Symbolic.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
@@ -53,7 +53,7 @@ My research interests include (but not limited to) natural language processing, 
 **Fangzhi Xu**, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
-[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+[**Project Page**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 
 </div>
 </div>
