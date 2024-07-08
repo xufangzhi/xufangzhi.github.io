@@ -97,7 +97,8 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://arxiv.org/abs/2403.14734) <span style="color:red">[Preprint]</span> \\
 Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
-[**Code**](https://github.com/QiushiSun/NCISurvey)
+[**Code**](https://github.com/QiushiSun/NCISurvey) &nbsp;
+[![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
 
 - We make a thorough conclusion of the paradigm shifts on neural code intelligence and provide extensive insights on advances and future directions. Check it out!
   
