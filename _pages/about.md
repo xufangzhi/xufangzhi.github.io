@@ -69,6 +69,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E140-brightgreen.svg)](https://github.com/xufangzhi/Symbol-LLM)
 
 </div>
 </div>
