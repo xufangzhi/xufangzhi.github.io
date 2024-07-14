@@ -92,20 +92,6 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/codesurvey.png' alt="sym" width="99%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond 🔥🔥](https://arxiv.org/abs/2403.14734) <span style="color:red">[Preprint]</span> \\
-Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
-
-[**Code**](https://github.com/QiushiSun/NCISurvey) &nbsp;
-[![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
-
-- We make a thorough conclusion of the paradigm shifts on neural code intelligence and provide extensive insights on advances and future directions. Check it out!
-  
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,6 +156,8 @@ views.
 </div>
 
 #### 🧑‍ Other Paper
+- ``Preprint`` [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)<br>
+Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[CCF-A]</span>[![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)<br>
   Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
 - ``COLING 2024`` [A Semantic Mention Graph Augmented Model for Document-Level Event Argument Extraction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-B]</span><br>
