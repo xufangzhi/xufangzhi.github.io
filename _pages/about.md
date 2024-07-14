@@ -20,9 +20,10 @@ I am Fangzhi Xu (徐方植), a first-year PhD student in Xi'an Jiaotong Universi
 
 I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, IEEE TKDE, and IEEE TNNLS. Also, I serve as a PC member (or reviewer) for IJCAI, SIGIR and IEEE TNNLS.
 
+## Research Interests
 My research interests include (but not limited to) natural language processing, large language models and neuro-symbolic reasoning. 
 
-<a href="https://scholar.google.com/citations?user=q6PBllIAAAAJ&hl=en"><img src="https://img.shields.io/static/v1?label=Google%20Scholar&message=citations&color=9cf&style=flat&logo=Google%20Scholar"></a>
+<a href='https://scholar.google.com/citations?user=qi8UzmkAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
