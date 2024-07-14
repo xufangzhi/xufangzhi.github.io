@@ -25,10 +25,9 @@ I have published researches in some top-tier conferences and journals, such as A
 ## Research Interests
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
 Currently, my researches cover the following topics:
-- LLM + Neuro-Symbolic:
-- Autonomous Agents:
-- Logical Reasoning: [Logiformer](https://arxiv.org/abs/2205.00731)(<font color="#cc0000">SIGIR'22</font>)
-
+- LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
+- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS), [Evaluation Paper](https://arxiv.org/abs/2306.09841)(IEEE TKDE under review)
+- Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 
 # 🔥 News
