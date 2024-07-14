@@ -40,8 +40,7 @@ Currently, my researches cover the following topics:
   
 
 # 📖 Educations
-- *2023.09 - 2026.06 (expected)*, PhD student in Computer Science, Xi'an Jiaotong University.
-- *2021.09 - 2023.06*, M.S. in Computer Science, Xi'an Jiaotong University. &emsp; GPA:**91.77**/100, Rankings:**1**/173
+- *2021.09 - 2026.06 (expected)*, M.S.+Ph.D Student, Computer Science, Xi'an Jiaotong University. &emsp;
 - *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
 
