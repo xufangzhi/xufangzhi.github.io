@@ -58,7 +58,7 @@ Currently, my researches cover the following topics:
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [**Project Page**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E50-brightgreen.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E60-brightgreen.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
 
 </div>
@@ -74,7 +74,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E170-brightgreen.svg)](https://github.com/xufangzhi/Symbol-LLM)
+[![](https://img.shields.io/badge/hf_downloads-%3E200-brightgreen.svg)](https://github.com/xufangzhi/Symbol-LLM)
 
 </div>
 </div>
