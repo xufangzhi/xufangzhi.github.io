@@ -31,7 +31,7 @@ Currently, my researches cover the following topics:
 
 
 # 🔥 News
-- *2024.05.20*: &nbsp; Our paper ENVISIONS is released 🚀🚀!
+- *2024.05.20*: &nbsp; Our paper ENVISIONS is recently released 🚀🚀!
 - *2024.05.16*: &nbsp; Three papers are accepted by ACL 2024 (main conference) 🎉🎉!
 - *2024.03.24*: &nbsp; Our recent survey on neural code intelligence is made public 🎉🎉!
 - *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
