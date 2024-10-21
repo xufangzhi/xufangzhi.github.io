@@ -27,7 +27,7 @@ In general, my research interests lie in natural language processing, large lang
 Currently, my researches cover the following topics:
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS), [Evaluation Paper](https://arxiv.org/abs/2306.09841)(IEEE TKDE under review)
-- (Multimodal) Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
+- (Multimodal) Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), OS-Atlas (Preprint)
 
 
 # 🔥 News
@@ -131,33 +131,6 @@ views.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/TaCo.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) <span style="color:red">[CCF-B]</span> \\
-**Fangzhi Xu**, Jun Liu, Qika Lin, Tianzhe Zhao, Jian Zhang, Lingling Zhang
-
-[**Code**](https://github.com/xufangzhi/TaCo/)
-  
-- We propose the first benchmark for generalized zero-shot logical reasoning, named ZsLR
-- A strong baseline TaCo is proposed, which is based on contrastive learning.
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/MoCA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) <span style="color:red">[CCF-B]</span> \\
-**Fangzhi Xu**, Qika Lin, Jun Liu, Lingling Zhang, Tianzhe Zhao, Qi Chai, Yudai Pan
-
-[**Code**](https://github.com/xufangzhi/MoCA/)
-
-- MoCA focuses on the task of Textbook Question Answering, which is a multimodal task with abundant diagrams and large context.
-- It conducts multi-stage pretraining on the text part and introduces dense layers of cross-guided multimodel attention for the diagram part. 
-  
-</div>
-</div>
 
 #### 🧑‍ Other Paper
 - ``Preprint`` [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)<br>
@@ -170,12 +143,18 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
   Qika Lin, Jun Liu, Rui Mao, **Fangzhi Xu** and Erik Cambria
 - ``Information Fusion`` [Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion](https://www.sciencedirect.com/science/article/pii/S1566253522001592) <span style="color:red">[SCI-Q1]</span> <br>
   Qika Lin, Rui Mao, Jun Liu, **Fangzhi Xu**, Erik Cambria
+- ``IEEE TNNLS`` [Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text](https://arxiv.org/abs/2301.02983) <span style="color:red">[CCF-B]</span><br>
+  **Fangzhi Xu**, Jun Liu, Qika Lin, Tianzhe Zhao, Jian Zhang, Lingling Zhang
 - ``APWEB-WAIM 2022`` [Incorporating Prior Type Information for Few-shot Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_21) <span style="color:red">[CCF-C] (Excellent Student Paper)</span> <br>
   Siyu Yao, Tianzhe Zhao, **Fangzhi Xu**, Jun Liu
 - ``SIGIR 2022`` [Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction](https://dl.acm.org/doi/abs/10.1145/3477495.3531996) <span style="color:red">[CCF-A]</span><br>
   Qika Lin, Jun Liu, **Fangzhi Xu**, Yudai Pan, Yifan Zhu, Lingling Zhang and Tianzhe Zhao
+- ``Pattern Recognition`` [MoCA: Incorporating Domain Pretraining and Cross Attention for Textbook Question Answering](https://arxiv.org/abs/2112.02839) <span style="color:red">[CCF-B]</span><br>
+  **Fangzhi Xu**, Qika Lin, Jun Liu, Lingling Zhang, Tianzhe Zhao, Qi Chai, Yudai Pan
 - ``IEEE TKDE`` [Contrastive Graph Representations for Logical Formulas Embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667296) <span style="color:red">[CCF-A]</span> <br>
   Qika Lin, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, **Fangzhi Xu**, Hongwei Zeng
+
+
 
 # 🎖 Honors and Awards
 **Honors**
