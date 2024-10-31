@@ -51,6 +51,21 @@ Currently, my researches cover the following topics:
 # 📝 Selected Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[Preprint]</span> \\
+Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+(\* means equal contributions)
+
+[**Code**]([https://github.com/xufangzhi/ENVISIONS](https://github.com/OS-Copilot/OS-Atlas)) &nbsp;
+[**Project Page**](osatlas.github.io) &nbsp;
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,7 +85,7 @@ Currently, my researches cover the following topics:
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface
-For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span style="color:red">[CCF-A]</span> \\
+For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
@@ -84,7 +99,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering 🔥🔥](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
@@ -101,7 +116,7 @@ For Large Language Models 🔥🔥](https://arxiv.org/pdf/2311.09278) <span styl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond 🔥🔥](https://arxiv.org/abs/2306.09841) <span style="color:red">Under Review at IEEE TKDE [CCF-A]</span> \\
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">Under Review at IEEE TKDE [CCF-A]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 (\* means equal contributions)
