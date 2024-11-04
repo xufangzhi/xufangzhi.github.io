@@ -20,7 +20,7 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I am currently a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). Also, I will start my visiting to Univeristy of Waterloo this Fall, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
-I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, IEEE TKDE, and IEEE TNNLS. Also, I serve as a PC member (or reviewer) for IJCAI, SIGIR and IEEE TNNLS.
+I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
 ## Research Interests
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
@@ -59,8 +59,8 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 (\* means equal contributions)
 
-[**Code**]([https://github.com/xufangzhi/ENVISIONS](https://github.com/OS-Copilot/OS-Atlas)) &nbsp;
-[**Project Page**](osatlas.github.io) &nbsp;
+[**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
+[**Project Page**](https://osatlas.github.io) &nbsp;
 
 </div>
 </div>
