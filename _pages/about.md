@@ -74,7 +74,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [**Project Page**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E100-steelblue.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E200-steelblue.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
 
 </div>
