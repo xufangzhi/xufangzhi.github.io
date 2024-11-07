@@ -61,6 +61,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 [**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
 [**Project Page**](https://osatlas.github.io) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
 
 </div>
 </div>
@@ -149,7 +150,7 @@ views.
 
 
 #### 🧑‍ Other Paper
-- ``Preprint`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://github.com/njucckevin/MM-Self-Improve) <br>
+- ``Preprint`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) <br>
 Kanzhi Cheng, Yantao Li, **Fangzhi Xu**, Jianbing Zhang, Hao Zhou, Yang Liu
 - ``Preprint`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) <br>
 Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, **Fangzhi Xu**, Junlin Hu, Tianbao Xie, Zhiyong Wu
@@ -209,5 +210,5 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: IJCAI 2024, SIGIR 2024, AACL 2023, SIGIR 2023, SIGIR-AP 2023
+- Program Committee Member: ACL ARR 2024, IJCAI 2024, SIGIR 2024, AACL 2023, SIGIR 2023, SIGIR-AP 2023
 - Reviewer: IEEE TNNLS
