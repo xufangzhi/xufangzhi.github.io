@@ -61,7 +61,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 [**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
 [**Project Page**](https://osatlas.github.io) &nbsp;
-[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
 
 </div>
 </div>
