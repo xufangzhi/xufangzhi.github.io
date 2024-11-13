@@ -61,6 +61,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 [**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
 [**Project Page**](https://osatlas.github.io) &nbsp;
+[**Demo**](https://huggingface.co/spaces/maxiw/OS-ATLAS) &nbsp;
 [![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
 
 </div>
@@ -91,7 +92,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E300-steelblue.svg)](https://github.com/xufangzhi/Symbol-LLM)
+[![](https://img.shields.io/badge/hf_downloads-%3E300-steelblue.svg)](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Symbol-LLM?style=social&label=Code+Stars)](https://github.com/xufangzhi/Symbol-LLM)
 
 </div>
 </div>
@@ -104,10 +106,6 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 **Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
 
 [**Code**](https://github.com/xufangzhi/)
-
-- We are the first to rethink the logical reasoning task by unifying the inputs into atoms and reasoning paths.
-
-- We propose an atom extension strategy with equivalent logical formulas to generate diverse new samples. Also, we introduce a stack of transformer-style blocks. Specifically, a path-attention module with high-order relation modeling is proposed to joint update information within and across atoms.
   
 </div>
 </div>
@@ -124,10 +122,6 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 [**Code**](https://github.com/xufangzhi/)
 
-- This paper provides a systematic, comprehensive and fine-level evaluation of logical reasoning capability from deductive, inductive and abductive
-views.
-
-- We propose a new dataset named NeuLR. It contains 3K samples with neutral content, covering deductive, inductive and abductive reasoning manners.
   
 </div>
 </div>
@@ -141,9 +135,6 @@ views.
 **Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
 
 [**Code**](https://github.com/xufangzhi/Logiformer/)
-  
-- Logiformer is a two-branch network for the logical reasoning task in the field of multiple-choice machine reading comprehension.
-- Up to publication, it is the state-of-the-art (SOTA) model compared with all the RoBERTa-Large based single model methods. Also, it ranks on the 9th place in the leaderboard compared with other larger models.
   
 </div>
 </div>
