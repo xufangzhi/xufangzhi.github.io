@@ -76,7 +76,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [**Project Page**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E200-steelblue.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E400-steelblue.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
 [![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
 
 </div>
@@ -92,7 +92,7 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 [**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
-[![](https://img.shields.io/badge/hf_downloads-%3E300-steelblue.svg)](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E500-steelblue.svg)](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
 [![](https://img.shields.io/github/stars/xufangzhi/Symbol-LLM?style=social&label=Code+Stars)](https://github.com/xufangzhi/Symbol-LLM)
 
 </div>
