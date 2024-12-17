@@ -34,10 +34,6 @@ Currently, my researches cover the following topics:
 - *2024.10.31*: &nbsp; Our papers [OS-Atlas, AgentStore, R3-V] are recently released 🚀🚀!
 - *2024.05.20*: &nbsp; Our paper ENVISIONS is recently released 🚀🚀!
 - *2024.05.16*: &nbsp; Three papers are accepted by ACL 2024 (main conference) 🎉🎉!
-- *2024.03.24*: &nbsp; Our recent survey on neural code intelligence is made public 🎉🎉!
-- *2024.02.20*: &nbsp; One paper is accepted by COLING 2024 🎉🎉!
-- *2024.02.10*: &nbsp; One paper is accepted by ICDE 2024 (TKDE Poster Track) 🎉🎉!
-- *2023.11.15*: &nbsp; We make the recent work Symbol-LLM public 🚀!
   
 
 # 📖 Educations
