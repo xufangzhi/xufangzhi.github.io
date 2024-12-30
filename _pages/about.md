@@ -31,6 +31,7 @@ Currently, my researches cover the following topics:
 
 
 # 🔥 News
+- *2024.12.30*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
 - *2024.10.31*: &nbsp; Our papers [OS-Atlas, AgentStore, R3-V] are recently released 🚀🚀!
 - *2024.05.20*: &nbsp; Our paper ENVISIONS is recently released 🚀🚀!
 - *2024.05.16*: &nbsp; Three papers are accepted by ACL 2024 (main conference) 🎉🎉!
