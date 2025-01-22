@@ -27,7 +27,7 @@ In general, my research interests lie in natural language processing, large lang
 Currently, my researches cover the following topics:
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS), [Evaluation Paper](https://arxiv.org/abs/2306.09841)(IEEE TKDE under review)
-- (Multimodal) Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(Preprint)
+- (Multimodal) Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25)
 
 
 # 🔥 News
@@ -48,10 +48,10 @@ Currently, my researches cover the following topics:
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[Preprint]</span> \\
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) \\
 Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 (\* means equal contributions)
