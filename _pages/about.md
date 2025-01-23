@@ -31,6 +31,7 @@ Currently, my researches cover the following topics:
 
 
 # 🔥 News
+- *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 and [R3-V] is accepted by NAACL 2025 🎉🎉!
 - *2024.12.30*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
 - *2024.10.31*: &nbsp; Our papers [OS-Atlas, AgentStore, R3-V] are recently released 🚀🚀!
 - *2024.05.20*: &nbsp; Our paper ENVISIONS is recently released 🚀🚀!
@@ -140,7 +141,7 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 #### 🧑‍ Other Paper
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)<br>
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, **Fangzhi Xu**, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
-- ``Preprint`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)<br>
+- ``NAACL 2025`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)<br>
 Kanzhi Cheng, Yantao Li, **Fangzhi Xu**, Jianbing Zhang, Hao Zhou, Yang Liu
 - ``Preprint`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)<br>
 Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, **Fangzhi Xu**, Junlin Hu, Tianbao Xie, Zhiyong Wu
