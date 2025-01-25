@@ -26,11 +26,12 @@ I have published researches in some top-tier conferences and journals, such as A
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
 Currently, my researches cover the following topics:
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
-- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS), [Evaluation Paper](https://arxiv.org/abs/2306.09841)(IEEE TKDE under review)
+- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS), [Evaluation Paper](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
 - (Multimodal) Autonomous Agents: [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25)
 
 
 # 🔥 News
+- *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
 - *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 and [R3-V] is accepted by NAACL 2025 🎉🎉!
 - *2024.12.30*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
 - *2024.10.31*: &nbsp; Our papers [OS-Atlas, AgentStore, R3-V] are recently released 🚀🚀!
@@ -110,10 +111,10 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">Under Review at IEEE TKDE [CCF-A]</span> \\
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">IEEE TKDE [CCF-A]</span> \\
 **Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
 
 (\* means equal contributions)
