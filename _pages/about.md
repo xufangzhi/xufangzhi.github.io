@@ -32,7 +32,7 @@ Currently, my researches cover the following topics:
 
 # 🔥 News
 - *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
-- *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 and [R3-V] is accepted by NAACL 2025 🎉🎉!
+- *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
 - *2024.12.30*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
 - *2024.10.31*: &nbsp; Our papers [OS-Atlas, AgentStore, R3-V] are recently released 🚀🚀!
 - *2024.05.20*: &nbsp; Our paper ENVISIONS is recently released 🚀🚀!
@@ -50,7 +50,7 @@ Currently, my researches cover the following topics:
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Spotlight)</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) \\
