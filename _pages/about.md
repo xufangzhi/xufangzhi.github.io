@@ -22,6 +22,9 @@ I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong Univers
 
 I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
+I am on the job market **this autumn (Fall 2025)**, please feel free to reach out !
+
+
 ## Research Interests
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
 Currently, my researches cover the following topics:
@@ -45,7 +48,7 @@ Currently, my researches cover the following topics:
 
 
 # 💻 Internships
-- *2023.07 - Present*, Research Intern @ Shanghai AI LAB. Focus on Large Language Models and Neuro-Symbolic.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB. Focus on AI Agents and Neuro-Symbolic.
 
 # 📝 Selected Publications 
 
