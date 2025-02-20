@@ -22,7 +22,7 @@ I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong Univers
 
 I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
-I am on the job market **this autumn (Fall 2025)**, please feel free to reach out !
+I will be on the job market **this autumn (Fall 2025)**, please feel free to reach out !
 
 
 ## Research Interests
@@ -31,7 +31,7 @@ Currently, my researches cover the following topics:
 - LLM + Reasoning: Genius(Under Review), $\phi$-Decoding(Under Review), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
-- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
+- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 
 # 🔥 News
@@ -49,7 +49,8 @@ Currently, my researches cover the following topics:
 
 
 # 💻 Internships
-- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB. Focus on AI Agents and Neuro-Symbolic.
+- *2025.03 - Now*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Neuro-Symbolic.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on AI Agents and Neuro-Symbolic.
 
 # 📝 Selected Publications 
 
