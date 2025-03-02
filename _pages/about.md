@@ -18,7 +18,7 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I will be starting the one-year visiting to Nanyang Technological University (NTU, Singapore 🇸🇬), advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I am starting the one-year visiting to Nanyang Technological University (NTU, Singapore 🇸🇬), advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ACL, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
@@ -50,7 +50,7 @@ Currently, my researches cover the following topics:
 
 # 💻 Internships
 - *2025.03 - Now*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Neuro-Symbolic.
-- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on AI Agents and Neuro-Symbolic.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on LLM, AI Agents and Neuro-Symbolic.
 
 # 📝 Selected Publications 
 
@@ -145,6 +145,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
+- ``Preprint``[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/pdf/2502.16660) <br> 
+Haiteng Zhao, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <br> 
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, **Fangzhi Xu**, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 - ``NAACL 2025`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)<br>
