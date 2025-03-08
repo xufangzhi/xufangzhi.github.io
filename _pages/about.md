@@ -55,6 +55,33 @@ Currently, my researches cover the following topics:
 # 📝 Selected Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://github.com/xufangzhi/Genius) \\
+**Fangzhi Xu**, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu
+
+[**Code**](https://github.com/xufangzhi/Genius) &nbsp;
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/phi_model.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation 🔥🔥](https://github.com/xufangzhi/phi-Decoding) \\
+**Fangzhi Xu**\*, Hang Yan\*, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Spotlight)</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -149,11 +176,11 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 Haiteng Zhao, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <br> 
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, **Fangzhi Xu**, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
-- ``NAACL 2025`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)<br>
+- ``NAACL 2025 (Oral)`` [Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/pdf/2411.00855) <span style="color:red">[CCF-B]</span> [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve) <br>
 Kanzhi Cheng, Yantao Li, **Fangzhi Xu**, Jianbing Zhang, Hao Zhou, Yang Liu
 - ``Preprint`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)<br>
 Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, **Fangzhi Xu**, Junlin Hu, Tianbao Xie, Zhiyong Wu
-- ``Preprint`` [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)<br>
+- ``Preprint`` [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey) <br>
 Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf) <span style="color:red">[CCF-A]</span>[![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)<br>
   Kanzhi Cheng, Qiushi Sun, Yougang Chu, **Fangzhi Xu**, Yantao Li, Jianbing Zhang, Zhiyong Wu
