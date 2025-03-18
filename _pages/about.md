@@ -76,7 +76,7 @@ Currently, my researches cover the following topics:
 (\* means equal contributions)
 
 [**Code**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
-[**PyPi Package**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
+[**PyPi-Package**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
 [![](https://img.shields.io/github/stars/xufangzhi/phi-Decoding?style=social&label=Code+Stars)](https://github.com/xufangzhi/phi-Decoding)
 
 </div>
