@@ -153,8 +153,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 (\* means equal contributions)
 
-[**Code**](https://github.com/xufangzhi/)
-
+[**Code**](https://github.com/DeepReasoning/NeuLR)
+[![](https://img.shields.io/github/stars/DeepReasoning/NeuLR?style=social&label=Code+Stars)](https://github.com/DeepReasoning/NeuLR)
   
 </div>
 </div>
@@ -167,13 +167,16 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 [Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
 
-[**Code**](https://github.com/xufangzhi/Logiformer/)
-  
+[**Code**](https://github.com/xufangzhi/Logiformer/) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Logiformer?style=social&label=Code+Stars)](https://github.com/xufangzhi/Logiformer)
+
 </div>
 </div>
 
 
 #### 🧑‍ Other Paper
+- ``Preprint``[CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era](https://arxiv.org/abs/2503.12329) <br> 
+Kanzhi Cheng, Wenpo Song, Jiaxin Fan, Zheng Ma, Qiushi Sun, Fangzhi Xu, Chenyang Yan, Nuo Chen, Jianbing Zhang, Jiajun Chen
 - ``Preprint``[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/pdf/2502.16660) <br> 
 Haiteng Zhao, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <br> 
