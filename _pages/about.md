@@ -28,7 +28,7 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 ## Research Interests
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
 Currently, my researches cover the following topics:
-- LLM + Reasoning: Genius(Under Review), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(Preprint), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
+- LLM + Reasoning: [Genius](https://arxiv.org/abs/2504.08672)(Preprint), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(Preprint), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
@@ -58,7 +58,7 @@ Currently, my researches cover the following topics:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://github.com/xufangzhi/Genius) \\
+[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://arxiv.org/abs/2504.08672) \\
 **Fangzhi Xu**, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu
 
 [**Code**](https://github.com/xufangzhi/Genius) &nbsp;
