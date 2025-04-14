@@ -28,7 +28,7 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 ## Research Interests
 In general, my research interests lie in natural language processing, large language models and neuro-symbolic reasoning.<br>
 Currently, my researches cover the following topics:
-- LLM + Reasoning: Genius(Under Review), $\phi$-Decoding(Under Review), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
+- LLM + Reasoning: [Genius](https://arxiv.org/abs/2504.08672)(Preprint), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(Preprint), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE)
 - LLM + Neuro-Symbolic: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
@@ -58,10 +58,11 @@ Currently, my researches cover the following topics:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://github.com/xufangzhi/Genius) \\
+[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://arxiv.org/abs/2504.08672) \\
 **Fangzhi Xu**, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu
 
 [**Code**](https://github.com/xufangzhi/Genius) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Genius?style=social&label=Code+Stars)](https://github.com/xufangzhi/Genius)
 
 </div>
 </div>
@@ -70,12 +71,14 @@ Currently, my researches cover the following topics:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/phi_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation 🔥🔥](https://github.com/xufangzhi/phi-Decoding) \\
+[ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation 🔥🔥](https://arxiv.org/abs/2503.13288) \\
 **Fangzhi Xu**\*, Hang Yan\*, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu
 
 (\* means equal contributions)
 
 [**Code**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
+[**PyPi-Package**](https://github.com/xufangzhi/phi-Decoding) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/phi-Decoding?style=social&label=Code+Stars)](https://github.com/xufangzhi/phi-Decoding)
 
 </div>
 </div>
@@ -151,8 +154,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 (\* means equal contributions)
 
-[**Code**](https://github.com/xufangzhi/)
-
+[**Code**](https://github.com/DeepReasoning/NeuLR)
+[![](https://img.shields.io/github/stars/DeepReasoning/NeuLR?style=social&label=Code+Stars)](https://github.com/DeepReasoning/NeuLR)
   
 </div>
 </div>
@@ -165,13 +168,16 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 [Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
 
-[**Code**](https://github.com/xufangzhi/Logiformer/)
-  
+[**Code**](https://github.com/xufangzhi/Logiformer/) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Logiformer?style=social&label=Code+Stars)](https://github.com/xufangzhi/Logiformer)
+
 </div>
 </div>
 
 
 #### 🧑‍ Other Paper
+- ``Preprint``[CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era](https://arxiv.org/abs/2503.12329) <br> 
+Kanzhi Cheng, Wenpo Song, Jiaxin Fan, Zheng Ma, Qiushi Sun, Fangzhi Xu, Chenyang Yan, Nuo Chen, Jianbing Zhang, Jiajun Chen
 - ``Preprint``[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/pdf/2502.16660) <br> 
 Haiteng Zhao, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng
 - ``Preprint`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <br> 
