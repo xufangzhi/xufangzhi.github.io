@@ -27,14 +27,13 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 
 ## Research Interests
 In general, my research interests lie in large language models, self-training and neuro-symbolic.<br>
-Currently, my researches focus on *how to advance LLM self-evolution (through interaction with their environment)*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
+Previously, I mainly work on the topic of logical reasoning:
+- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
+
+Currently, my researches focus on *how to advance LLM self-evolution (through interaction with the environment)*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
 - LLM + Self-Evolution: [Genius](https://arxiv.org/abs/2504.08672)(Preprint), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(Preprint)
 - LLM + Env. Interaction: [ENVISIONS](https://arxiv.org/abs/2406.11736)(Preprint), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
-
-Previously, I also work on the topic of logical reasoning:
-- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
-
 
 # 🔥 News
 - *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
