@@ -28,12 +28,12 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 ## Research Interests
 In general, my research interests lie in large language models, self-training and neuro-symbolic.<br>
 Previously, I mainly work on the topic of logical reasoning:
-- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
+- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24 *Main*), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
 Currently, my researches focus on *how to advance LLM self-evolution (through interaction with the environment)*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
-- LLM + Self-Evolution: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25)
-- LLM + Env. Interaction: [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
-- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
+- LLM + Self-Evolution: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25 *Main*), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25 *Main*)
+- LLM + Env. Interaction: [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25 *Main*), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24 *Main*)
+- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24 *Main*)
 
 # 🔥 News
 - *2025.05.15*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
@@ -57,7 +57,7 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://arxiv.org/abs/2504.08672)<span style="color:red">[CCF-A]</span> \\
@@ -70,7 +70,7 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/phi_model.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/phi_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation 🔥🔥](https://arxiv.org/abs/2503.13288)<span style="color:red">[CCF-A]</span> \\
@@ -104,7 +104,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models 🔥🔥](http://arxiv.org/abs/2406.11736) <span style="color:red">[CCF-A]</span> \\
@@ -119,7 +119,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Main)</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface
@@ -135,7 +135,7 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Main)</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
