@@ -28,7 +28,6 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 ## Research Interests
 In general, my research interests lie in large language models, self-training and neuro-symbolic.
 
-***I am currently in the job market. If there are any available positions, please feel free to contact me.***
 Previously, I mainly work on the topic of logical reasoning:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
