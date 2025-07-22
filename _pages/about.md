@@ -32,11 +32,13 @@ Previously, I mainly work on the topic of logical reasoning:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
 Currently, my researches focus on *how to advance LLM self-evolution (through interaction with the environment)*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
-- LLM + Self-Evolution: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25)
-- LLM + Env. Interaction: [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
+- LLM Self-Training: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), 
+- Foundation Model: [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
+- LLM Reasoning Algorithm: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(Preprint)
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
+- *2025.07.22*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
 - *2025.06.09*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
 - *2025.05.15*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
 - *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
