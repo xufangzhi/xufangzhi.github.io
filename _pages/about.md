@@ -57,7 +57,7 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mur.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models 🔥🔥](https://arxiv.org/abs/2507.14958) \\
