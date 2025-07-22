@@ -61,7 +61,7 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 <div class='paper-box-text' markdown="1">
 
 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models 🔥🔥](https://arxiv.org/abs/2507.14958) \\
-Hang Yan\*, **Fangzhi Xu**\*, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu
+Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao✉, Qika Lin, Jun Liu✉
 
 (\* means equal contributions)
 
