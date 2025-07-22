@@ -57,6 +57,20 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mur.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MUR: Momentum Uncertainty guided Reasoning for Large Language Models 🔥🔥](https://arxiv.org/abs/2507.14958) \\
+Hang Yan\*, **Fangzhi Xu**\*, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, Qika Lin, Jun Liu
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/yayayacc/MUR) &nbsp;
+[![](https://img.shields.io/github/stars/yayayacc/MUR?style=social&label=Code+Stars)](https://github.com/yayayacc/MUR)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,7 +105,7 @@ Currently, my researches focus on *how to advance LLM self-evolution (through in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Spotlight)</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) \\
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) \\
 Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 (\* means equal contributions)
@@ -108,7 +122,7 @@ Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models 🔥🔥](http://arxiv.org/abs/2406.11736) <span style="color:red">[CCF-A]</span> \\
+[Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](http://arxiv.org/abs/2406.11736) <span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 [**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
