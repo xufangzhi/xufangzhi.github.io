@@ -28,13 +28,13 @@ I will be on the job market **this autumn (Fall 2025)**, please feel free to rea
 ## Research Interests
 In general, my research interests lie in large language models, self-training and neuro-symbolic.
 
-Previously, I mainly work on the topic of logical reasoning:
+Previously, I mainly work on *how to build logic-enhanced language models*:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
-Currently, my researches focus on *how to advance LLM self-evolution (through interaction with the environment)*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
+Currently, my researches focus on *building self-improving LLMs capable of interacting, reasoning and acting*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
 - LLM Self-Training: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), 
 - Foundation Model: [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
-- LLM Reasoning Algorithm: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(Preprint)
+- LLM Reasoning: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(Preprint)
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
