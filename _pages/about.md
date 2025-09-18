@@ -38,12 +38,12 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
+- *2025.09.18*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
 - *2025.07.22*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
 - *2025.06.09*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
 - *2025.05.15*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
 - *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
 - *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
-- *2024.12.30*: &nbsp; Our paper [OS-Genesis] is recently released 🚀🚀!
   
 
 # 📖 Educations
@@ -193,6 +193,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
+- ``NeurIPS 2025``[ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding](https://arxiv.org/abs/2505.19076) <br>
+Muye Huang, Lingling Zhang, Han Lai, **Fangzhi Xu**, Yifei Li, Wenjun Wu, Yaqiang Wu, Jun Liu
 - ``WCUA@ICML 2025``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, **Fangzhi Xu**, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
 - ``Preprint``[BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/pdf/2502.16660) <br> 
