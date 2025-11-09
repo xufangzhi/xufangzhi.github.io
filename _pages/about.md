@@ -38,6 +38,7 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
+- *2025.11.08*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
 - *2025.09.18*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
 - *2025.07.22*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
 - *2025.06.09*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
@@ -193,7 +194,9 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
-- ``NeurIPS 2025``[ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding](https://arxiv.org/abs/2505.19076) <br>
+- ``AAAI 2026``[MAPS: Multi-Agent Personality Shaping for Collaborative Reasoning](https://arxiv.org/abs/2503.16905) <span style="color:red">[CCF-A]</span><br>
+Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, **Fangzhi Xu**, Qika Lin, Rui Mao, Erik Cambria, Jun Liu
+- ``NeurIPS 2025``[ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding](https://arxiv.org/abs/2505.19076) <span style="color:red">[CCF-A]</span><br>
 Muye Huang, Lingling Zhang, Han Lai, **Fangzhi Xu**, Yifei Li, Wenjun Wu, Yaqiang Wu, Jun Liu
 - ``WCUA@ICML 2025``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, **Fangzhi Xu**, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
@@ -201,9 +204,9 @@ Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, **Fangzhi Xu**, Zhangyue Yin,
 Haiteng Zhao, Chang Ma, **Fangzhi Xu**, Lingpeng Kong, Zhi-Hong Deng
 - ``ACL 2025 Findings``[CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era](https://arxiv.org/abs/2503.12329) [![](https://img.shields.io/github/stars/njucckevin/CapArena?style=social&label=Code+Stars)](https://github.com/njucckevin/CapArena) <br> 
 Kanzhi Cheng, Wenpo Song, Jiaxin Fan, Zheng Ma, Qiushi Sun, **Fangzhi Xu**, Chenyang Yan, Nuo Chen, Jianbing Zhang, Jiajun Chen
-- ``ACL 2025`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <br> 
+- ``ACL 2025`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis) <span style="color:red">[CCF-A]</span><br> 
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, **Fangzhi Xu**, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
-- ``ACL 2025`` [Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2501.18119)<br> 
+- ``ACL 2025`` [Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2501.18119) <span style="color:red">[CCF-A]</span><br> 
 Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, **Fangzhi Xu**, Ling Huang, Jingying Ma, Mengling Feng
 - ``ACL 2025 Findings`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)<br>
 Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, **Fangzhi Xu**, Junlin Hu, Tianbao Xie, Zhiyong Wu
