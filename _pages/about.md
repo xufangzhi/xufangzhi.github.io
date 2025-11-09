@@ -18,7 +18,7 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), a second-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I am starting the one-year visiting to Nanyang Technological University (NTU, Singapore 🇸🇬), advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), a third-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I am starting the one-year visiting to Nanyang Technological University (NTU, Singapore 🇸🇬), advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ACL, ICLR, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
