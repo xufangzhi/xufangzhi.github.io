@@ -18,15 +18,15 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), a third-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I am starting the one-year visiting to Nanyang Technological University (NTU, Singapore 🇸🇬), advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ACL, ICLR, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
 
-I will be on the job market **this autumn (Fall 2025)**, please feel free to reach out !
+Wish myself all the best in the next endeavor !
 
 
 ## Research Interests
-In general, my research interests lie in large language models, self-training and neuro-symbolic.
+In general, my research interests lie in large language models, self-improvement and GUI Agents.
 
 Previously, I mainly work on *how to build logic-enhanced language models*:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
@@ -54,8 +54,8 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 
 
 # 💻 Internships
-- *2025.03 - Now*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Neuro-Symbolic.
-- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on LLM, AI Agents and Neuro-Symbolic.
+- *2025.03 - 2026.02*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Self-Improvement.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on LLM, GUI Agents.
 
 # 📝 Selected Publications 
 
