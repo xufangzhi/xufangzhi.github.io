@@ -20,7 +20,7 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
-I have published researches in some top-tier conferences and journals, such as ACL, ICLR, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ACL, NAACL, IJCAI, SIGIR.
+I have published researches in some top-tier conferences and journals, such as ACL, ICLR, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
 
 Wish myself all the best in the next endeavor !
 
@@ -38,14 +38,15 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
-- *2026.01.10*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
-- *2025.11.08*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
-- *2025.09.18*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
-- *2025.07.22*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
-- *2025.06.09*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
-- *2025.05.15*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
-- *2025.01.26*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
-- *2025.01.23*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
+- *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
+- *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
+- *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
+- *2025.09*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
+- *2025.07*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
+- *2025.06*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
+- *2025.05*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
+- *2025.01*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
+- *2025.01*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
   
 
 # 📖 Educations
@@ -255,6 +256,8 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
 
 
 # 🎖 Scholarships
+- *2025.09* &emsp; National Scholarship
+- *2025.09* &emsp; Tencent Scholarship (First-Class)
 - *2023.09* &emsp; Freshman First Prize Scholarship (PhD)
 - *2022.09* &emsp; National Scholarship
 - *2022.09* &emsp; Huawei Scholarship
@@ -269,5 +272,5 @@ Qiushi Sun, Zhirui Chen, **Fangzhi Xu**, Chang Ma, Kanzhi Cheng, Zhangyue Yin, J
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Academic Services
-- Program Committee Member: ACL ARR 2024, IJCAI 2024, SIGIR 2024, AACL 2023, SIGIR 2023, SIGIR-AP 2023
+- Program Committee Member: ICML 2026, ACL 2026, ICLR 2026, EMNLP 2025, ACL 2025, ACL 2024, IJCAI 2024, SIGIR 2024, SIGIR 2023, SIGIR-AP 2023
 - Reviewer: IEEE TNNLS
