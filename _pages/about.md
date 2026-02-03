@@ -38,6 +38,7 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
+- *2026.02*: &nbsp; Our work on evaluting agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) is released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
 - *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
@@ -45,7 +46,6 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - *2025.07*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
 - *2025.06*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
 - *2025.05*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
-- *2025.01*: &nbsp; Our paper is accepeted by IEEE TKDE 🎉🎉!
 - *2025.01*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
   
 
