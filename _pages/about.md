@@ -60,10 +60,40 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/odyssey-demos.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions 🔥🔥](https://arxiv.org/abs/2602.05843) \\
+**Fangzhi Xu**\*, Hang Yan\*, Qiushi Sun\*, Jinyang Wu, Zixian Huang, Muye Huang, Jingyang Gong, Zichen Ding, Kanzhi Cheng, Yian Wang, Xinyu Che, Zeyi Sun, Jian Zhang, Zhangyue Yin, Haoran Luo, Xuanjing Huang, Ben Kao, Jun Liu, Qika Lin✉
+
+[**Code**](https://github.com/xufangzhi/Odyssey-Arena) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Odyssey-Arena?style=social&label=Code+Stars)](https://github.com/xufangzhi/Odyssey-Arena)
+
+[**Leaderboard**](https://yayayacc.github.io/Odyssey-Home/) &nbsp;
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tide.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents 🔥🔥](https://arxiv.org/abs/2602.02196) \\
+Hang Yan\*, Xinyu Che\*, **Fangzhi Xu**\*✉, Qiushi Sun, Zichen Ding, Kanzhi Cheng, Jian Zhang, Tao Qin, Jun Liu, Qika Lin✉
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/yayayacc/TIDE) &nbsp;
+[![](https://img.shields.io/github/stars/yayayacc/TIDE?style=social&label=Code+Stars)](https://github.com/yayayacc/TIDE)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MUR: Momentum Uncertainty guided Reasoning for Large Language Models 🔥🔥](https://arxiv.org/abs/2507.14958) \\
+[MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://arxiv.org/abs/2507.14958) \\
 Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao✉, Qika Lin, Jun Liu✉
 
 (\* means equal contributions)
@@ -78,7 +108,7 @@ Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, X
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/genius_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning 🔥🔥](https://arxiv.org/abs/2504.08672)<span style="color:red">[CCF-A]</span> \\
+[Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning](https://arxiv.org/abs/2504.08672)<span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu
 
 [**Code**](https://github.com/xufangzhi/Genius) &nbsp;
@@ -91,7 +121,7 @@ Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, X
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/phi_model.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation 🔥🔥](https://arxiv.org/abs/2503.13288)<span style="color:red">[CCF-A]</span> \\
+[ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation](https://arxiv.org/abs/2503.13288)<span style="color:red">[CCF-A]</span> \\
 **Fangzhi Xu**\*, Hang Yan\*, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu
 
 (\* means equal contributions)
