@@ -38,12 +38,12 @@ Currently, my researches focus on *building self-improving LLMs capable of inter
 - (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
 
 # 🔥 News
-- *2026.02*: &nbsp; Our work on evaluting agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) is released !
+- *2026.02*: &nbsp; Our works on evaluting long-horizon and inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
 - *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
 - *2025.09*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
-- *2025.07*: &nbsp; Our Training-free work [MUR] on LLM Reasoning is released 🎉🎉!
+- *2025.07*: &nbsp; Our training-free work [MUR] on LLM Reasoning is released 🎉🎉!
 - *2025.06*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
 - *2025.05*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
 - *2025.01*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
@@ -99,7 +99,7 @@ Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, X
 (\* means equal contributions)
 
 [**Code**](https://github.com/yayayacc/MUR) &nbsp;
-[![](https://img.shields.io/github/stars/yayayacc/MUR?style=social&label=Code+Stars)](https://github.com/yayayacc/MUR)
+[![](https://img.shields.io/github/stars/yayayacc/MUR?style=social&label=Code+Stars)](https://github.com/yayayacc/MUR) &nbsp;
 
 </div>
 </div>
