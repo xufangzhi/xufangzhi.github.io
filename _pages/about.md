@@ -20,10 +20,7 @@ redirect_from:
 
 I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
-I have published researches in some top-tier conferences and journals, such as ACL, ICLR, SIGIR, and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
-
-Wish myself all the best in the next endeavor !
-
+I have published researches in some top-tier conferences and journals, such as ICLR, NeurIPS, ACL and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
 
 ## Research Interests
 In general, my research interests lie in large language models, self-improvement and GUI Agents.
@@ -31,13 +28,13 @@ In general, my research interests lie in large language models, self-improvement
 Previously, I mainly work on *how to build logic-enhanced language models*:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
-Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
+Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and autonomous (GUI) agents, and more:
 - LLM Self-Improvement: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - LLM Reasoning: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(Preprint)
-- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
+- [Major] Multimodal Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
-- *2026.02*: &nbsp; Our works on evaluting long-horizon and inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
+- *2026.02*: &nbsp; Our works on evaluting long-horizon, inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
 - *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
