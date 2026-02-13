@@ -31,11 +31,10 @@ In general, my research interests lie in large language models, self-improvement
 Previously, I mainly work on *how to build logic-enhanced language models*:
 - Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
-Currently, my researches focus on *building self-improving LLMs capable of interacting, reasoning and acting*. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
-- LLM Self-Training: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), 
-- Foundation Model: [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
+Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-training, reasoning, autonomous (GUI) agents, and more:
+- LLM Self-Improvement: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
 - LLM Reasoning: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(Preprint)
-- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24)
+- (Multimodal) Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
 - *2026.02*: &nbsp; Our works on evaluting long-horizon and inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
