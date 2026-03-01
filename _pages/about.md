@@ -18,7 +18,7 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I am currently a research intern at ByteDance Seed. I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ICLR, NeurIPS, ACL and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
 
@@ -51,6 +51,7 @@ Currently, my researches focus on **building self-improving LLM Agents capable o
 
 
 # 💻 Internships
+- *2026.01 - Now*, Intern @ ByteDance Seed 🇨🇳. Focus on GUI Agents at UI-TARS Team.
 - *2025.03 - 2026.02*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Self-Improvement.
 - *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on LLM, GUI Agents.
 
