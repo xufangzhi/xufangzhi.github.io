@@ -88,7 +88,7 @@ Hang Yan\*, Xinyu Che\*, **Fangzhi Xu**\*✉, Qiushi Sun, Zichen Ding, Kanzhi Ch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"ACL 2026 (Main)</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Main)</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://arxiv.org/abs/2507.14958)<span style="color:red">[CCF-A]</span> \\
