@@ -34,6 +34,7 @@ Currently, my researches focus on **building self-improving LLM Agents capable o
 - [Major] Multimodal Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
+- *2026.04*: &nbsp; Three papers are accepted by ACL 2026 Main Conference 🎉🎉!
 - *2026.02*: &nbsp; Our works on evaluting long-horizon, inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
@@ -87,10 +88,10 @@ Hang Yan\*, Xinyu Che\*, **Fangzhi Xu**\*✉, Qiushi Sun, Zichen Ding, Kanzhi Ch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"ACL 2026 (Main)</div><img src='images/mur.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://arxiv.org/abs/2507.14958) \\
+[MUR: Momentum Uncertainty guided Reasoning for Large Language Models](https://arxiv.org/abs/2507.14958)<span style="color:red">[CCF-A]</span> \\
 Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao✉, Qika Lin, Jun Liu✉
 
 (\* means equal contributions)
