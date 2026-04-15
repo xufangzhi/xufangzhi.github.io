@@ -23,14 +23,9 @@ I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong Universi
 I have published researches in some top-tier conferences and journals, such as ICLR, NeurIPS, ACL and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
 
 ## Research Interests
-In general, my research interests lie in large language models, self-improvement and GUI Agents.
-
-Previously, I mainly work on *how to build logic-enhanced language models*:
-- Logical Reasoning: [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [Evaluation](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 
 Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and autonomous (GUI) agents, and more:
-- LLM Self-Improvement: [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24)
-- LLM Reasoning: [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [MUR](https://arxiv.org/abs/2507.14958)(ACL'26)
+- Reasoning: [MUR](https://arxiv.org/abs/2507.14958)(ACL'26), [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24), [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [LogicEval](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 - [Major] Multimodal Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
@@ -136,7 +131,7 @@ Hang Yan\*, **Fangzhi Xu**\*✉, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, X
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Spotlight)</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) \\
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)<span style="color:red">[CCF-A]</span> \\
 Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 (\* means equal contributions)
@@ -224,7 +219,9 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
-- ``ICLR 2026``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
+- ``ACL 2026``[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Sentinel?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Sentinel) <span style="color:red">[CCF-A]</span><br>
+Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, **Fangzhi Xu**, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
+- ``ICLR 2026``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <span style="color:red">[CCF-A]</span><br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, **Fangzhi Xu**, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
 - ``AAAI 2026``[MAPS: Multi-Agent Personality Shaping for Collaborative Reasoning](https://arxiv.org/abs/2503.16905) <span style="color:red">[CCF-A]</span><br>
 Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, **Fangzhi Xu**, Qika Lin, Rui Mao, Erik Cambria, Jun Liu
