@@ -24,21 +24,18 @@ I have published researches in some top-tier conferences and journals, such as I
 
 ## Research Interests
 
-Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and autonomous (GUI) agents, and more:
+Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and computer-using agents, and more:
 - Reasoning: [MUR](https://arxiv.org/abs/2507.14958)(ACL'26), [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24), [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [LogicEval](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 - [Major] Multimodal Autonomous Agents: [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
+- *2026.04*: &nbsp; Our paper [OS-Sentinel] received Best Paper Award AIWILD @ ICLR 2026 🏆 !
 - *2026.04*: &nbsp; Three papers are accepted by ACL 2026 Main Conference 🎉🎉!
 - *2026.02*: &nbsp; Our works on evaluting long-horizon, inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
 - *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
 - *2025.09*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
-- *2025.07*: &nbsp; Our training-free work [MUR] on LLM Reasoning is released 🎉🎉!
-- *2025.06*: &nbsp; Our paper [ScienceBoard] is accepted by WCUA@ICML 2025 as oral paper 🎉🎉!
-- *2025.05*: &nbsp; Seven papers are accepeted by ACL 2025 🎉🎉!
-- *2025.01*: &nbsp; Our paper [OS-Atlas] is accepeted by ICLR 2025 (Spotlight) and [R3-V] is accepted by NAACL 2025 🎉🎉!
   
 
 # 📖 Educations
@@ -47,9 +44,9 @@ Currently, my researches focus on **building self-improving LLM Agents capable o
 
 
 # 💻 Internships
-- *2026.01 - Now*, Intern @ ByteDance Seed 🇨🇳. Focus on GUI Agents at UI-TARS Team.
+- *2026.01 - Now*, Intern @ ByteDance Seed. Focus on Computer-Using Agents at UI-TARS Team.
 - *2025.03 - 2026.02*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Self-Improvement.
-- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB 🇨🇳. Focus on LLM, GUI Agents.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB. Focus on LLM, GUI Agents.
 
 # 📝 Selected Publications 
 
@@ -219,7 +216,7 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
-- ``ACL 2026``[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Sentinel?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Sentinel) <span style="color:red">[CCF-A]</span><br>
+- ``ACL 2026 & AIWILD @ ICLR 2026``[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Sentinel?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Sentinel) <span style="color:red">[CCF-A]</span><br>
 Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, **Fangzhi Xu**, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
 - ``ICLR 2026``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <span style="color:red">[CCF-A]</span><br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, **Fangzhi Xu**, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
