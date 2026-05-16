@@ -33,7 +33,7 @@ Currently, my researches focus on **building self-improving LLM Agents capable o
 - [Major] Multimodal Autonomous Agents: [Seed-2.0](https://seed.bytedance.com/en/seed2), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
 # 🔥 News
-- *2026.04*: We release [Seed-2.0-lite-0428](https://seed.bytedance.com/en/seed2), achieving 64.4\% on OSWorld, 64.6\% on MobileWorld 🎉🎉!
+- *2026.04*: We release [Seed-2.0-lite-0428](https://seed.bytedance.com/en/seed2), achieving 64.4% on OSWorld, 64.6% on MobileWorld 🎉🎉!
 - *2026.04*: &nbsp; Our paper [OS-Sentinel] received Best Paper Award AIWILD @ ICLR 2026 🏆 !
 - *2026.04*: &nbsp; Three papers are accepted by ACL 2026 Main Conference 🎉🎉!
 - *2026.02*: &nbsp; Our works on evaluting long-horizon, inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
