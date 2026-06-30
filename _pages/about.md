@@ -18,7 +18,7 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), a final-year PhD student in Xi'an Jiaotong University, major in Computer Science, advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I am currently a research intern at ByteDance Seed. I was previously a research intern at Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), currently a research intern at ByteDance Seed. I received my Ph.D. in Computer Science from Xi'an Jiaotong University, where I was advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Bytedance Seed and Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ICLR, NeurIPS, ACL and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
 
@@ -28,7 +28,7 @@ I have published researches in some top-tier conferences and journals, such as I
 
 ## Research Interests
 
-Currently, my researches focus on **building self-improving LLM Agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and computer-using agents, and more:
+Currently, my researches focus on **building self-improving general agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and computer-using agents, and more:
 - Reasoning: [MUR](https://arxiv.org/abs/2507.14958)(ACL'26), [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24), [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [LogicEval](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
 - [Major] Multimodal Autonomous Agents: [Seed-2.1](https://seed.bytedance.com/en/seed2_1), [Seed-2.0](https://seed.bytedance.com/en/seed2), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
 
@@ -42,17 +42,18 @@ Currently, my researches focus on **building self-improving LLM Agents capable o
 - *2026.01*: &nbsp; Our paper [LogicEval](https://arxiv.org/abs/2306.09841) @IEEE TKDE is recognized as **ESI Highly Cited** Paper 🎉🎉!
 - *2025.11*: &nbsp; Our work [MAPS] is accepted by AAAI 2026 🎉🎉!
 - *2025.09*: &nbsp; Our work [ChartSketcher] is accepted by NIPS 2025 🎉🎉!
-  
+
+
+# 💻 Work Experience and Internships
+- *2026.06 - Now*, Researcher @ ByteDance Seed. Focus on GUI / Computer-Using Agents.
+- *2026.01 - 2026.06*, Intern @ ByteDance Seed. Focus on GUI / Computer-Using Agents.
+- *2025.03 - 2026.01*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Self-Improvement.
+- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB. Focus on LLM, GUI Agents.
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, M.S. + Ph.D Student, Computer Science, Xi'an Jiaotong University. &emsp;
+- *2021.09 - 2026.06*, M.S. + Ph.D Student, Computer Science, Xi'an Jiaotong University. &emsp;
 - *2017.09 - 2021.06*, B.S. in Electrical Engineering, Xi'an Jiaotong University. &emsp; GPA:**97.62**/100, Rankings:**1**/365
 
-
-# 💻 Internships
-- *2026.01 - Now*, Intern @ ByteDance Seed. Focus on Computer-Using Agents.
-- *2025.03 - 2026.02*, Visiting Ph.D Student @ NTU 🇸🇬. Focus on LLM Reasoning and Self-Improvement.
-- *2023.07 - 2025.02*, Research Intern @ Shanghai AI LAB. Focus on LLM, GUI Agents.
 
 # 📝 Selected Publications 
 
