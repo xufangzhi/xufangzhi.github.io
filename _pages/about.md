@@ -72,7 +72,7 @@ Currently, my researches focus on **building self-improving general agents capab
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tide.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/tide.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents 🔥🔥](https://arxiv.org/abs/2602.02196) \\
