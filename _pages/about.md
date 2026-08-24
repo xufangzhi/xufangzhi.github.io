@@ -18,24 +18,23 @@ redirect_from:
 
 # 🐯 About Me
 
-I am Fangzhi Xu (徐方植), currently a research intern at ByteDance Seed. I received my Ph.D. in Computer Science from Xi'an Jiaotong University, where I was advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Bytedance Seed and Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
+I am Fangzhi Xu (徐方植), currently a researcher at ByteDance Seed. I received my Ph.D. in Computer Science from Xi'an Jiaotong University, where I was advised by [Prof. Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/4). I was previously a research intern at Bytedance Seed and Shanghai AI LAB, supervised by [Dr. Zhiyong Wu](https://lividwo.github.io/zywu.github.io/). I also visited Nanyang Technological University (NTU, Singapore 🇸🇬) for one year, advised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/).
 
 I have published researches in some top-tier conferences and journals, such as ICLR, NeurIPS, ACL and IEEE TKDE. Also, I serve as a PC member (or reviewer) for ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL.
-
-<p align="left">
-  <b><span style="color:red">I have successfully defended my PhD thesis and will join ByteDance Seed this summer!</span></b>
-</p>
 
 ## Research Interests
 
 Currently, my researches focus on **building self-improving general agents capable of interacting, reasoning and acting**. This encompasses a variety of topics, including self-improvement and computer-using agents, and more:
 - Reasoning: [MUR](https://arxiv.org/abs/2507.14958)(ACL'26), [Genius](https://arxiv.org/abs/2504.08672)(ACL'25), [$\phi$-Decoding](https://arxiv.org/abs/2503.13288)(ACL'25), [ENVISIONS](https://arxiv.org/abs/2406.11736)(ACL'25), [Symbol-LLM](https://arxiv.org/abs/2311.09278)(ACL'24), [PathReasoner](https://arxiv.org/abs/2405.19109)(ACL'24), [LogicEval](https://arxiv.org/abs/2306.09841)(IEEE TKDE), [Logiformer](https://arxiv.org/abs/2205.00731)(SIGIR'22), [TaCo](https://arxiv.org/abs/2301.02983)(IEEE TNNLS)
-- [Major] Multimodal Autonomous Agents: [Seed-2.1](https://seed.bytedance.com/en/seed2_1), [Seed-2.0](https://seed.bytedance.com/en/seed2), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(Preprint)
+- [Major] Multimodal Autonomous Agents: [Seed-2.1](https://seed.bytedance.com/en/seed2_1), [Seed-2.0](https://seed.bytedance.com/en/seed2), [OS-Atlas](https://arxiv.org/pdf/2410.23218)(ICLR'25 *Spotlight*), [SeeClick](https://arxiv.org/abs/2401.10935)(ACL'24), [OdysseyArena](https://arxiv.org/abs/2602.05843)(Preprint), [TIDE](https://arxiv.org/abs/2602.02196)(EMNLP'26)
 
 # 🔥 News
+- *2026.08*: One paper is accepted by TPAMI, congrats to Qika 🎉🎉!
+- *2026.08*: Our paper [TIDE] is accepted by EMNLP 2026 (Main), congrats to Hang Yan 🎉🎉!
+- *2026.07*: Our paper OpenMobile is accepted by COLM 2026, congrats to Kanzhi 🎉🎉!
 - *2026.06*: We release [Seed-2.1-Pro/Turbo](https://seed.bytedance.com/en/seed2_1), achieving 78.8% on OSWorld, 73.1% on MobileWorld 🎉🎉!
 - *2026.04*: We release [Seed-2.0-lite-0428](https://seed.bytedance.com/en/seed2), achieving 64.4% on OSWorld, 64.6% on MobileWorld 🎉🎉!
-- *2026.04*: &nbsp; Our paper [OS-Sentinel] received Best Paper Award AIWILD @ ICLR 2026 🏆 !
+- *2026.04*: &nbsp; Our paper [OS-Sentinel] received Best Paper Award AIWILD @ ICLR 2026 🏆, congrats to Qiushi !
 - *2026.04*: &nbsp; Three papers are accepted by ACL 2026 Main Conference 🎉🎉!
 - *2026.02*: &nbsp; Our works on evaluting long-horizon, inductive agentic tasks [OdysseyArena](https://arxiv.org/abs/2602.05843) and agentic test-time improvement [TIDE](https://arxiv.org/abs/2602.02196) are released !
 - *2026.01*: &nbsp; Our paper [ScienceBoard] is accepted by ICLR 2026 🎉🎉!
@@ -72,7 +71,7 @@ Currently, my researches focus on **building self-improving general agents capab
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/tide.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 (Main)</div><img src='images/tide.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents 🔥🔥](https://arxiv.org/abs/2602.02196) \\
@@ -223,6 +222,8 @@ For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:
 
 
 #### 🧑‍ Other Paper
+- ``IEEE TPAMI``[Towards Unified Neurosymbolic Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2507.03697) <span style="color:red">[CCF-A]</span><br>
+Qika Lin, **Fangzhi Xu**, Hao Lu, Kai He, Rui Mao, Jun Liu, Erik Cambria, Mengling Feng
 - ``ACL 2026 & AIWILD @ ICLR 2026``[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Sentinel?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Sentinel) <span style="color:red">[CCF-A]</span><br>
 Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, **Fangzhi Xu**, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
 - ``ICLR 2026``[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <span style="color:red">[CCF-A]</span><br>
